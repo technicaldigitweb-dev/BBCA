@@ -1,0 +1,25 @@
+{
+  "_README": "Copy to config.local.json and edit. config.local.json is git-ignored and must never be committed. Every gate defaults to false; set one only when the matching decision has actually been approved, and record who approved it and when.",
+
+  "gates": {
+    "live_ownership_source_approved": false,
+    "reason_rules_approved": false,
+    "daily_schedule_approved": false,
+    "history_write_approved": false,
+    "priority_rule_approved": false,
+    "alert_delivery_approved": false,
+    "publish_approved": false
+  },
+
+  "_publish_audience": "Who receives the dashboard in ph_task. Never guessed - the publisher refuses to run with an empty audience. Use the exact ph_task spelling, e.g. Tharsika(jaffna).",
+  "publish_audience": [],
+
+  "_alerts": "Required only once alert_delivery_approved is true. No delivery transport is implemented yet.",
+  "alert_channel": null,
+  "alert_recipients": [],
+
+  "_priority_asins": "Required only once priority_rule_approved is true. An explicit approved ASIN list - the engine will not infer one from analytics_asinsegmentasin.priority.",
+  "priority_asins": [],
+
+  "_secrets": "No password or token belongs in this file. The publish password is read from $BBOX_PUBLISH_PASSWORD or $PGPASSWORD at runtime."
+}

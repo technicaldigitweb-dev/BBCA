@@ -27,8 +27,8 @@ The complete set of authorized Amazon feeds present:
 
 Searched the project and estate for `sp-api`, `sp_api`, `sellingpartnerapi`,
 `selling-partner`, `getCompetitivePricing`, `getItemOffers`, `SellingPartner`, `LWA_`,
-`refresh_token`. The only hits are **`buy_box_handover.md`** and
-**`buy_box_source_mapping.md`** — this project's own documents, recommending SP-API.
+`refresh_token`. The only hits are **`../02_DISCOVERY/buy_box_handover.md`** and
+**`../02_DISCOVERY/buy_box_source_mapping.md`** — this project's own documents, recommending SP-API.
 There is **no SP-API client, no LWA credential, no refresh token and no integration**
 anywhere in the estate.
 

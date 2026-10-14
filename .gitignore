@@ -17,3 +17,5 @@ automation/state/
 *credentials*.json
 *secrets*.json
 *token*.json
+# operator-local overrides: gates + audience, never version controlled
+automation/config.local.json
