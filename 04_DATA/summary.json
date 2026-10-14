@@ -1,0 +1,20 @@
+{
+  "total": 20821,
+  "yes": 6789,
+  "no": 915,
+  "not_verified": 13117,
+  "nv_partial": 156,
+  "nv_nodata": 12961,
+  "reason_unknown": 915,
+  "with_stock": 20820,
+  "with_listing_status": 20821,
+  "with_category": 20821,
+  "with_featured_price": 792,
+  "no_with_featured_price": 127,
+  "no_priced_above": 19,
+  "latest_checked": "2026-10-12",
+  "max_report_date": "2026-10-12",
+  "window_days": 7,
+  "snapshot_at": "2026-10-14T04:05:02.916738+02:00",
+  "built_at": "2026-10-14T10:52:41"
+}

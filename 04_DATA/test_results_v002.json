@@ -1,0 +1,377 @@
+[
+ {
+  "test": "total rows = summary.total",
+  "pass": true,
+  "info": "20821 vs 20821"
+ },
+ {
+  "test": "YES card = summary.yes",
+  "pass": true,
+  "info": "6789 vs 6789"
+ },
+ {
+  "test": "NO card = summary.no",
+  "pass": true,
+  "info": "915 vs 915"
+ },
+ {
+  "test": "NotVerified card = summary.not_verified",
+  "pass": true,
+  "info": "13117 vs 13117"
+ },
+ {
+  "test": "YES+NO+NV = total",
+  "pass": true,
+  "info": "6789+915+13117"
+ },
+ {
+  "test": "Reason Unknown card = NO count",
+  "pass": true,
+  "info": "915"
+ },
+ {
+  "test": "page shows 50 rows",
+  "pass": true,
+  "info": "50"
+ },
+ {
+  "test": "next page advances",
+  "pass": true,
+  "info": "0 -> 50"
+ },
+ {
+  "test": "prev page returns",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "filter NO: card total = S.no",
+  "pass": true,
+  "info": "915"
+ },
+ {
+  "test": "filter NO: YES card is 0",
+  "pass": true,
+  "info": "0"
+ },
+ {
+  "test": "filter NO: every visible pill is NO",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "filter NO: every Reason cell says Unknown",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "chart total reconciles with NO card",
+  "pass": true,
+  "info": "looking for 915"
+ },
+ {
+  "test": "filter NV: card total = summary.not_verified",
+  "pass": true,
+  "info": "13117"
+ },
+ {
+  "test": "filter NV: all pills are NOT VERIFIED",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "filter NV: no Reason assigned",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "filter NV: YES and NO cards are 0",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "marketplace UK filter applies",
+  "pass": true,
+  "info": "11266"
+ },
+ {
+  "test": "UK filter: all rows are UK",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "account filter narrows further",
+  "pass": true,
+  "info": "6151 < 11266"
+ },
+ {
+  "test": "UK+LEDSone: all rows match",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "ASIN search finds the row",
+  "pass": true,
+  "info": "B0B7799FKL -> 4"
+ },
+ {
+  "test": "clearing search restores total",
+  "pass": true,
+  "info": "20821"
+ },
+ {
+  "test": "ASIN sort toggles direction",
+  "pass": true,
+  "info": "B018OUTQ84 / B0HLK6113W"
+ },
+ {
+  "test": "numeric stock sort is ascending",
+  "pass": true,
+  "info": "-Infinity,-30,-16,-16,-12,-5"
+ },
+ {
+  "test": "export produced a blob",
+  "pass": true,
+  "info": "174594"
+ },
+ {
+  "test": "export label says CSV not XLSX",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer opens on row click",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer states the official reason is Unknown",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer explains the undefined checklist",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer shows ownership evidence",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer closes",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "NV drawer never claims YES/NO ownership",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "Run Check explains no live service",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "Run Check changed no timestamp",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "Run Check changed no counts",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "price: some comparisons are available",
+  "pass": true,
+  "info": "428"
+ },
+ {
+  "test": "price: available rows have both prices + sku + date",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "price: no contradictory direction vs signals (NO rows)",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "price: non-NO rows carry no loss signal",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "price: suppressed rows expose no featured price",
+  "pass": true,
+  "info": "364"
+ },
+ {
+  "test": "price: every suppressed row carries a reason",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "price: summary px counts match the rows",
+  "pass": true,
+  "info": "428/428 364/364"
+ },
+ {
+  "test": "stale price evidence is suppressed",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "zero-price evidence is suppressed",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "ambiguous multi-offer evidence is suppressed",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer says Price comparison unavailable",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer gives the suppression reason",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer declares featured seller Not Available",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer flags our seller has no verified ID",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer shows a price difference",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "every NO row has official reason Unknown",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "every NO row has at least one possible reason",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "possible reasons never leak into the official column",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "multi-hypothesis rows keep all candidates",
+  "pass": true,
+  "info": "60"
+ },
+ {
+  "test": "Possible Reason column renders for NO rows",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer shows confidence / limitations",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer names the evidence gaps",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "drawer marks extraction status as snapshot",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "NV rows carry no possible reason",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "NV rows never show a price comparison direction",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "footer declares every row a historical snapshot",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "footer states no row is a verified live check",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "footer explains the v002 price correction",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "footer distinguishes listing price from offer price",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "Run Check states the access block",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "chart still reconciles with the NO card after correction",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "NO card unchanged by the price correction",
+  "pass": true,
+  "info": "915"
+ },
+ {
+  "test": "priced-above count matches the summary",
+  "pass": true,
+  "info": "18"
+ },
+ {
+  "test": "CSV starts with UTF-8 BOM bytes EF BB BF",
+  "pass": true,
+  "info": "ef bb bf"
+ },
+ {
+  "test": "CSV row count = filtered rows + header",
+  "pass": true,
+  "info": "916 vs 916"
+ },
+ {
+  "test": "CSV header has all 10 table columns + evidence",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "CSV body rows are all NO",
+  "pass": true,
+  "info": ""
+ },
+ {
+  "test": "no uncaught JS errors",
+  "pass": true,
+  "info": ""
+ }
+]

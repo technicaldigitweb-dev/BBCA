@@ -1,0 +1,633 @@
+{
+ "label": "phase4_uk_vpn",
+ "transport": "cdp:http://127.0.0.1:9222",
+ "postcode": "SW1A1AA",
+ "started_at": "2026-10-14T14:00:28+05:30",
+ "results": [
+  {
+   "asin": "B07VFV228J",
+   "expected_account": "LEDSone",
+   "stratum": "price_above_featured",
+   "internal": {
+    "our_price": 26.89,
+    "stock": 39,
+    "listing_status": "Active",
+    "featured_price_db": 24.69,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-11"
+   },
+   "checked_at": "2026-10-14T14:00:48+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "12V 400W Rainproof LED Driver Transformer Power Supply For LED Lights | 400W LED Driver Provides Stable 12V DC Constant ",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "Only 1 left in stock.",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Sunday, 18 October on your first order to UK or Ireland. Details Or fastest delivery Friday, 16 October. Order within 6 hrs 59 mins. Details",
+   "featured_price_live": "£24.69",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Sold by",
+    "value": "LEDSONE",
+    "all_rows": [
+     "Sold by",
+     "LEDSONE"
+    ],
+    "seller_id": "A1BXMEJKH8MYIL"
+   },
+   "featured_seller_name": "LEDSONE",
+   "featured_seller_id": "A1BXMEJKH8MYIL",
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": true
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B07VFV228J_uk.png",
+   "offers": {
+    "count": 2,
+    "featured": {
+     "price": "£24 . 69",
+     "seller_name": "LEDSONE",
+     "seller_id": "A1BXMEJKH8MYIL"
+    },
+    "list": [
+     {
+      "price": "£24 . 69",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     },
+     {
+      "price": "£26 . 89",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     }
+    ],
+    "error": null
+   }
+  },
+  {
+   "asin": "B07VXWJ5WY",
+   "expected_account": "LEDSone",
+   "stratum": "price_above_featured",
+   "internal": {
+    "our_price": 36.89,
+    "stock": 19,
+    "listing_status": "Active",
+    "featured_price_db": 33.89,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-11"
+   },
+   "checked_at": "2026-10-14T14:01:04+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "LEDSone 2 Pack Black Pendant Light Industrial 95cm Height Adjustable Metal E27 Holder : Amazon.co.uk: Lighting",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "Only 2 left in stock.",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Sunday, 18 October on your first order to UK or Ireland. Details Or fastest delivery Tomorrow, 15 October. Order within 8 hrs 58 mins. Details",
+   "featured_price_live": "£33.89",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Sold by",
+    "value": "LEDSONE",
+    "all_rows": [
+     "Sold by",
+     "LEDSONE"
+    ],
+    "seller_id": "A1BXMEJKH8MYIL"
+   },
+   "featured_seller_name": "LEDSONE",
+   "featured_seller_id": "A1BXMEJKH8MYIL",
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": true
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B07VXWJ5WY_uk.png",
+   "offers": {
+    "count": 2,
+    "featured": {
+     "price": "£33 . 89",
+     "seller_name": "LEDSONE",
+     "seller_id": "A1BXMEJKH8MYIL"
+    },
+    "list": [
+     {
+      "price": "£34 . 99",
+      "seller_name": "Amazon",
+      "seller_id": null
+     },
+     {
+      "price": "£36 . 89",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     }
+    ],
+    "error": null
+   }
+  },
+  {
+   "asin": "B083TNFR73",
+   "expected_account": "LEDSone",
+   "stratum": "zero_stock",
+   "internal": {
+    "our_price": 18.89,
+    "stock": 0,
+    "listing_status": "Active",
+    "featured_price_db": 15.89,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-12"
+   },
+   "checked_at": "2026-10-14T14:01:24+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "LEDSone Pack 3 | Vintage LED Edison E27 Light Bulb, 8W (Equivalent 60W) ST64 Dimmable 2700K Warm White Amber Glass Screw",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "In stock",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Sunday, 18 October on your first order to UK or Ireland",
+   "featured_price_live": "£15.89",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "Amazon",
+    "all_rows": [
+     "Shipper / Seller",
+     "Amazon"
+    ],
+    "seller_id": null
+   },
+   "featured_seller_name": "Amazon",
+   "featured_seller_id": null,
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": true,
+    "sellerProfileTriggerId": false
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B083TNFR73_uk.png",
+   "offers": {
+    "count": 2,
+    "featured": {
+     "price": "£15 . 89",
+     "seller_name": "Amazon",
+     "seller_id": null
+    },
+    "list": [
+     {
+      "price": "£11 . 83",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     },
+     {
+      "price": "£16 . 89",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     }
+    ],
+    "error": null
+   }
+  },
+  {
+   "asin": "B0855MZ337",
+   "expected_account": "LEDSone",
+   "stratum": "zero_stock",
+   "internal": {
+    "our_price": 16.89,
+    "stock": 0,
+    "listing_status": "Inactive",
+    "featured_price_db": null,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-11"
+   },
+   "checked_at": "2026-10-14T14:01:44+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "Pack 3 | LED E27 Edison Light Bulb | T45 4W (Equivalent 40W) Dimmable Warm White 2700K Screw 450 Lumen Tubular Amber Gla",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "In stock",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Sunday, 18 October on your first order to UK or Ireland. Details Or fastest delivery Tomorrow, 15 October. Order within 9 hrs 43 mins. Details",
+   "featured_price_live": "£7.70",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "Amazon",
+    "all_rows": [
+     "Shipper / Seller",
+     "Amazon"
+    ],
+    "seller_id": null
+   },
+   "featured_seller_name": "Amazon",
+   "featured_seller_id": null,
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": false
+   },
+   "aod_ingress_present": false,
+   "screenshot": "06_EVIDENCE/screenshots/B0855MZ337_uk.png",
+   "offers": {
+    "count": 0,
+    "featured": {
+     "price": "£7 . 70",
+     "seller_name": "Amazon",
+     "seller_id": null
+    },
+    "list": [],
+    "error": null
+   }
+  },
+  {
+   "asin": "B08CXS3T8T",
+   "expected_account": "LEDSone",
+   "stratum": "listing_inactive",
+   "internal": {
+    "our_price": 9.89,
+    "stock": 0,
+    "listing_status": "Inactive",
+    "featured_price_db": null,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-11"
+   },
+   "checked_at": "2026-10-14T14:02:02+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "LEDSone T45 Tubular E27 Screw Bulb Led Edison Light Bulb Non-Dimmable Retro E27 Bulb 220V 4W 450 Lumen Warm White 2700K ",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "Currently unavailable. We don't know when or if this item will be back in stock.",
+   "out_of_stock_block": true,
+   "add_to_cart_present": false,
+   "buybox_present": true,
+   "delivery_promise": null,
+   "featured_price_live": null,
+   "currency": null,
+   "merchant_info": {
+    "label": null,
+    "value": null,
+    "all_rows": [],
+    "seller_id": null
+   },
+   "featured_seller_name": null,
+   "featured_seller_id": null,
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": true,
+    "sellerProfileTriggerId": false
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B08CXS3T8T_uk.png",
+   "offers": {
+    "count": 0,
+    "featured": {
+     "price": null,
+     "seller_name": null,
+     "seller_id": null
+    },
+    "list": [],
+    "error": null
+   }
+  },
+  {
+   "asin": "B08S45CM19",
+   "expected_account": "LEDSone",
+   "stratum": "not_buyable",
+   "internal": {
+    "our_price": 25.39,
+    "stock": 0,
+    "listing_status": "Discoverable (not buyable)",
+    "featured_price_db": null,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-09"
+   },
+   "checked_at": "2026-10-14T14:02:18+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "Brushed Silver Semi Flush Ceiling Light 36cm Metal Dome Shade | E27 vintage close to ceiling light fitting industrial ea",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "In stock",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Monday, 19 October on your first order to UK or Ireland",
+   "featured_price_live": "£25.39",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "SRM Supplies",
+    "all_rows": [
+     "Shipper / Seller",
+     "SRM Supplies",
+     "Shipper / Seller",
+     "DC Voltage DC Voltage Shipper / Seller DC Voltage"
+    ],
+    "seller_id": "A38PHOTUXDB2Y0"
+   },
+   "featured_seller_name": "SRM Supplies",
+   "featured_seller_id": "A38PHOTUXDB2Y0",
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": true
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B08S45CM19_uk.png",
+   "offers": {
+    "count": 2,
+    "featured": {
+     "price": "£25 . 39",
+     "seller_name": "SRM Supplies",
+     "seller_id": "A38PHOTUXDB2Y0"
+    },
+    "list": [
+     {
+      "price": "£25 . 39",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     },
+     {
+      "price": "£25 . 49",
+      "seller_name": "DC Voltage",
+      "seller_id": "A3UNAW6KG6QUOJ"
+     }
+    ],
+    "error": null
+   }
+  },
+  {
+   "asin": "B0GLPLNXXC",
+   "expected_account": "DCVoltage",
+   "stratum": "no_reason_signal_dcv",
+   "internal": {
+    "our_price": 35.89,
+    "stock": 30,
+    "listing_status": "Active",
+    "featured_price_db": null,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-08"
+   },
+   "checked_at": "2026-10-14T14:02:38+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "2 Pack Industrial Ceiling Light Brushed Copper Metal E27 Semi Flush Lamp | 2 pack | Industrial pipe design | Metal | E27",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "Only 15 left in stock.",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery 19 - 21 October on your first order to UK or Ireland. Details Or fastest delivery Tomorrow, 15 October. Order within 5 hrs 27 mins. Details",
+   "featured_price_live": "£35.89",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "DC Voltage",
+    "all_rows": [
+     "Shipper / Seller",
+     "DC Voltage"
+    ],
+    "seller_id": "A3UNAW6KG6QUOJ"
+   },
+   "featured_seller_name": "DC Voltage",
+   "featured_seller_id": "A3UNAW6KG6QUOJ",
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": true
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B0GLPLNXXC_uk.png",
+   "offers": {
+    "count": 1,
+    "featured": {
+     "price": "£35 . 89",
+     "seller_name": "DC Voltage",
+     "seller_id": "A3UNAW6KG6QUOJ"
+    },
+    "list": [
+     {
+      "price": "£35 . 89",
+      "seller_name": "DC Voltage",
+      "seller_id": "A3UNAW6KG6QUOJ"
+     }
+    ],
+    "error": null
+   }
+  },
+  {
+   "asin": "B0GLYZ41VT",
+   "expected_account": "DCVoltage",
+   "stratum": "no_reason_signal_dcv",
+   "internal": {
+    "our_price": 59.09,
+    "stock": 4,
+    "listing_status": "Active",
+    "featured_price_db": null,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-09"
+   },
+   "checked_at": "2026-10-14T14:02:54+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "DC VOLTAGE Industrial Steampunk Robot Table Lamp Vintage Metal Pipe Style Desk Light E27 Rustic Bedside Lamp for Bedroom",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "Only 4 left in stock.",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery 19 - 21 October on your first order to UK or Ireland. Details Or fastest delivery Tomorrow, 15 October. Order within 5 hrs 27 mins. Details",
+   "featured_price_live": "£59.09",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "DC Voltage",
+    "all_rows": [
+     "Shipper / Seller",
+     "DC Voltage"
+    ],
+    "seller_id": "A3UNAW6KG6QUOJ"
+   },
+   "featured_seller_name": "DC Voltage",
+   "featured_seller_id": "A3UNAW6KG6QUOJ",
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": true
+   },
+   "aod_ingress_present": false,
+   "screenshot": "06_EVIDENCE/screenshots/B0GLYZ41VT_uk.png",
+   "offers": {
+    "count": 0,
+    "featured": {
+     "price": "£59 . 09",
+     "seller_name": "DC Voltage",
+     "seller_id": "A3UNAW6KG6QUOJ"
+    },
+    "list": [],
+    "error": null
+   }
+  },
+  {
+   "asin": "B018OUTQ84",
+   "expected_account": "LEDSone",
+   "stratum": "no_reason_signal",
+   "internal": {
+    "our_price": 7.69,
+    "stock": 39,
+    "listing_status": "Active",
+    "featured_price_db": null,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-11"
+   },
+   "checked_at": "2026-10-14T14:03:09+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "LEDSone LED Vintage Edison E27 LED Light Bulb, ST64 4W | Dimmable Warm White 2700K 450 Lumens Screw Base Amber Glass Ene",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "In stock",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Monday, 19 October on your first order to UK or Ireland. Details",
+   "featured_price_live": "£5.79",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "SRM Supplies",
+    "all_rows": [
+     "Shipper / Seller",
+     "SRM Supplies"
+    ],
+    "seller_id": "A38PHOTUXDB2Y0"
+   },
+   "featured_seller_name": "SRM Supplies",
+   "featured_seller_id": "A38PHOTUXDB2Y0",
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": true
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B018OUTQ84_uk.png",
+   "offers": {
+    "count": 2,
+    "featured": {
+     "price": "£5 . 79",
+     "seller_name": "SRM Supplies",
+     "seller_id": "A38PHOTUXDB2Y0"
+    },
+    "list": [
+     {
+      "price": "£8 . 68",
+      "seller_name": "Amazon",
+      "seller_id": null
+     },
+     {
+      "price": "£7 . 69",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     }
+    ],
+    "error": null
+   }
+  },
+  {
+   "asin": "B086385W3W",
+   "expected_account": "LEDSone",
+   "stratum": "price_below_eq_featured",
+   "internal": {
+    "our_price": 18.89,
+    "stock": 39,
+    "listing_status": "Active",
+    "featured_price_db": 18.89,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-11"
+   },
+   "checked_at": "2026-10-14T14:03:26+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "LEDSone Metal E27 Pendant Light Fitting with Twisted Braided Cable | Vintage Antique Copper Ceiling Pendant Lamp Holder ",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "In stock",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Sunday, 18 October on your first order to UK or Ireland. Details Or fastest delivery Tomorrow, 15 October. Order within 9 hrs 41 mins. Details",
+   "featured_price_live": "£18.89",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "Amazon",
+    "all_rows": [
+     "Shipper / Seller",
+     "Amazon"
+    ],
+    "seller_id": null
+   },
+   "featured_seller_name": "Amazon",
+   "featured_seller_id": null,
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": false
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B086385W3W_uk.png",
+   "offers": {
+    "count": 2,
+    "featured": {
+     "price": "£18 . 89",
+     "seller_name": "Amazon",
+     "seller_id": null
+    },
+    "list": [
+     {
+      "price": "£18 . 89",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     },
+     {
+      "price": "£20 . 89",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     }
+    ],
+    "error": null
+   }
+  }
+ ],
+ "egress": {
+  "ip": "57.129.148.71",
+  "country": "GB",
+  "city": "Erith",
+  "org": "AS16276 OVH SAS"
+ },
+ "egress_is_gb": true,
+ "locale_attempts": 1,
+ "uk_locale_ok": true,
+ "uk_locale_detail": "location='London SW1A1AA' i18n-prefs=['GBP']",
+ "blocked_by_amazon": false,
+ "aborted": false,
+ "extraction_status": "ok",
+ "finished_at": "2026-10-14T14:03:47+05:30"
+}

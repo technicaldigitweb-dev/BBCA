@@ -1,0 +1,14 @@
+{
+ "label": "phase2_access_test",
+ "postcode": "SW1A1AA",
+ "started_at": "2026-10-14T13:44:09+05:30",
+ "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+ "results": [],
+ "headed": false,
+ "uk_locale_ok": false,
+ "uk_locale_detail": "BLOCKED by Amazon access control; markers=['validatecaptcha', 'click the button below to continue shopping', 'api-services-support', 'to discuss automated access']",
+ "blocked_by_amazon": true,
+ "extraction_status": "blocked",
+ "aborted": true,
+ "finished_at": "2026-10-14T13:44:13+05:30"
+}

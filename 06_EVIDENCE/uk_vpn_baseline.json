@@ -1,0 +1,86 @@
+{
+ "label": "uk_vpn",
+ "transport": "cdp:http://127.0.0.1:9222",
+ "postcode": "SW1A1AA",
+ "started_at": "2026-10-14T13:57:49+05:30",
+ "results": [
+  {
+   "asin": "B086385W3W",
+   "expected_account": "LEDSone",
+   "stratum": "price_below_eq_featured",
+   "internal": {
+    "our_price": 18.89,
+    "stock": 39,
+    "listing_status": "Active",
+    "featured_price_db": 18.89,
+    "bb_pct": 0.0,
+    "last_checked": "2026-10-11"
+   },
+   "checked_at": "2026-10-14T13:58:10+05:30",
+   "http_status": 200,
+   "blocked_markers": [],
+   "page_title": "LEDSone Metal E27 Pendant Light Fitting with Twisted Braided Cable | Vintage Antique Copper Ceiling Pendant Lamp Holder ",
+   "delivery_location": "London SW1A1AA",
+   "asin_on_page": true,
+   "availability": "In stock",
+   "out_of_stock_block": false,
+   "add_to_cart_present": true,
+   "buybox_present": true,
+   "delivery_promise": "FREE delivery Sunday, 18 October on your first order to UK or Ireland. Details Or fastest delivery Tomorrow, 15 October. Order within 9 hrs 46 mins. Details",
+   "featured_price_live": "£18.89",
+   "currency": "GBP",
+   "merchant_info": {
+    "label": "Shipper / Seller",
+    "value": "Amazon",
+    "all_rows": [
+     "Shipper / Seller",
+     "Amazon"
+    ],
+    "seller_id": null
+   },
+   "featured_seller_name": "Amazon",
+   "featured_seller_id": null,
+   "legacy_selectors": {
+    "tabular_buybox_rows": 0,
+    "merchant_info_id": false,
+    "sellerProfileTriggerId": false
+   },
+   "aod_ingress_present": true,
+   "screenshot": "06_EVIDENCE/screenshots/B086385W3W_uk.png",
+   "offers": {
+    "count": 2,
+    "featured": {
+     "price": "£18 . 89",
+     "seller_name": "Amazon",
+     "seller_id": null
+    },
+    "list": [
+     {
+      "price": "£18 . 89",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     },
+     {
+      "price": "£20 . 89",
+      "seller_name": "LEDSONE",
+      "seller_id": "A1BXMEJKH8MYIL"
+     }
+    ],
+    "error": null
+   }
+  }
+ ],
+ "egress": {
+  "ip": "57.129.148.71",
+  "country": "GB",
+  "city": "Erith",
+  "org": "AS16276 OVH SAS"
+ },
+ "egress_is_gb": true,
+ "uk_locale_ok": true,
+ "uk_locale_detail": "location='London SW1A1AA' i18n-prefs=['GBP']",
+ "blocked_by_amazon": false,
+ "aborted": false,
+ "extraction_status": "ok",
+ "finished_at": "2026-10-14T13:58:29+05:30"
+}

@@ -1,0 +1,6338 @@
+{
+ "B072R5FSMB|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.99,
+  "featured_price": 17.99,
+  "sku": "12IP20300_AML",
+  "snapshot_date": "2026-10-10"
+ },
+ "B079Z8W7FF|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07B2WVRJ5|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 7.59,
+  "featured_price": 6.99,
+  "sku": "12IP6715_AMZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07CP4SFT5|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.99,
+  "featured_price": 13.99,
+  "sku": "12IP6750 AM",
+  "snapshot_date": "2026-10-09"
+ },
+ "B07CQ1JXSP|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07CRNNQ2P|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07KW7TW1C|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (17.59, 17.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07R181VCV|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-12"
+ },
+ "B07VFV228J|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-02"
+ },
+ "B07VXWJ5WY|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 33.89,
+  "featured_price": 33.89,
+  "sku": "CRSF100BM2PK+PHCH1BMRBM2PK+LSCY290BM_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B083LBHP7X|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (20.63, 24.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B083TNFR73|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (11.83, 16.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B083TZC6WR|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.89,
+  "featured_price": 21.89,
+  "sku": "CRFF500BM+PHHRE1HETHE3PK_AML",
+  "snapshot_date": "2026-10-12"
+ },
+ "B084C3LZ91|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "PLWEFBM+LDMST64E274_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B084ZPNBTZ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.99,
+  "featured_price": 22.99,
+  "sku": "CRSF100BM+PHRI1PBRYB+LSDO300YB_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B086385W3W|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 18.89,
+  "sku": "PHSF1BRTCO2PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08638WV4N|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.79,
+  "featured_price": 16.79,
+  "sku": "PHSF1AGTGB-AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0863BZR2Z|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.89,
+  "featured_price": 18.89,
+  "sku": "CS-SHHRYBST+SFCRYBS pck2_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0863J112Z|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 3 of our own offers at different prices (14.47, 15.43, 19.29) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0868DXK1B|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-23) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-23"
+ },
+ "B08KW8R4R8|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08LH3JKVP|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-09-11) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-11"
+ },
+ "B08PVWBXPL|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.99,
+  "featured_price": 10.89,
+  "sku": "12IP6724 AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08S44XNJF|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.19,
+  "featured_price": 26.19,
+  "sku": "CRSF100BC+LHNSE27YB+SCRN70BC+LSWD360BC-A",
+  "snapshot_date": "2026-10-09"
+ },
+ "B08V13B8G3|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.39,
+  "featured_price": 22.39,
+  "sku": "ENC842-AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B091CZ8MGT|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-07) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-07"
+ },
+ "B091M812TL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-30) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-30"
+ },
+ "B092DTV4GG|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.79,
+  "featured_price": 20.79,
+  "sku": "CRSF100BM+PHCH1BMRBM+LSCY290BI_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0933HJV1L|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 17.89,
+  "sku": "PHSF1PBR40WH+LSBS160BM_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0933K7829|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.89,
+  "featured_price": 16.89,
+  "sku": "PHSF1PWR40WH+LSBS160WH_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B093DK8NZW|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B093DKF852|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.99,
+  "featured_price": 20.99,
+  "sku": "CL2TBKAPK_AMN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B093DKVKM7|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B093H8YG8Z|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B093HB4S7Y|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (11.19, 13.99) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B093T37BQ8|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320OR+RPR44WH_AMNR",
+  "snapshot_date": "2026-10-11"
+ },
+ "B093T4C95B|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B093T4FQVW|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.79,
+  "featured_price": 14.79,
+  "sku": "LSMS320GR+RPR44WH_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B093TBM9LD|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.29,
+  "featured_price": 19.49,
+  "sku": "CRSF100BB+PHCH1PBRBB+LSCY290BB_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B093X4CBSK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-10-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-06"
+ },
+ "B093Y224LS|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B093Y7ZZQF|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-07) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-07"
+ },
+ "B0946ZK6D8|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09477VMYH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-10"
+ },
+ "B09477YHK7|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B09479HV6W|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B094DN1XL1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-03"
+ },
+ "B0963P71QD|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B09736Y1RB|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.23,
+  "featured_price": 15.79,
+  "sku": "amzn.gr.CRSF100BM_WSLS155YB_SC-VgMYWD-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B097372KBV|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.23, 17.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B099FFBHBR|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.89,
+  "featured_price": 23.89,
+  "sku": "CRSF100YB+LHNSE27YB+SCRN70YB+LSOL220YB-A",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09B3VTSQG|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (26.24, 34.99) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09C2D484C|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-09"
+ },
+ "B09C2GBT5X|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-10-01) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-01"
+ },
+ "B09C5SYCR3|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.42,
+  "featured_price": 42.94,
+  "sku": "amzn.gr.CRSF2003BC_PHSH1PBRYB3-RQlf84-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09HN2VHQH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09HN38SMR|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09HS85K42|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.99,
+  "featured_price": 13.99,
+  "sku": "CL2TBD5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09HS874ZY|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.19,
+  "featured_price": 12.19,
+  "sku": "CL2TRE5PK AMZ",
+  "snapshot_date": "2026-10-10"
+ },
+ "B09HS8NDLH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09HS8RX1P|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.29,
+  "featured_price": 9.33,
+  "sku": "CL2TYE5PK-AM",
+  "snapshot_date": "2026-10-09"
+ },
+ "B09HS8VHK9|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-07 (nearest available 2026-09-28) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-28"
+ },
+ "B09HS8XTXZ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.89,
+  "featured_price": 11.89,
+  "sku": "CL2TBU5PK AMZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09HS95HZH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09HS96LW4|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.49,
+  "featured_price": 10.49,
+  "sku": "CL2TLG5PK-AM",
+  "snapshot_date": "2026-10-12"
+ },
+ "B09HS97HPH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09HS97Y7Q|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.29,
+  "featured_price": 13.29,
+  "sku": "CL2TPU5PK AMZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09HS9J29K|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 14.89,
+  "sku": "CL2TBP5PK AMZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09HS9YS4G|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.79,
+  "featured_price": 12.79,
+  "sku": "CL2TBW5PK AMZ",
+  "snapshot_date": "2026-10-09"
+ },
+ "B09HSBKLHK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.49,
+  "featured_price": 13.49,
+  "sku": "CL2TRO5PK AMZ",
+  "snapshot_date": "2026-10-09"
+ },
+ "B09HV84TXK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 31.03,
+  "featured_price": 38.79,
+  "sku": "amzn.gr.ENC588_AM-AclTG8ML6khguiFuFZt-LN",
+  "snapshot_date": "2026-10-08"
+ },
+ "B09KNQV7L7|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 30.49,
+  "featured_price": 30.49,
+  "sku": "CRSF2003BM+PHRB1PBR40BM3PK+LSBS160GY_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09KNR8L6C|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.99,
+  "featured_price": 28.99,
+  "sku": "CRSF2003BM+PHRB1PBR40BM3PK+LSBS160YE3PKA",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09L11514G|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B09L115HFJ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (13.51, 16.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09LCRDN1B|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 20.89,
+  "sku": "CRSF100BM+PHCH1BMRBM+LSCY290NB_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09LCSRKM1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B09LD4XTDF|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B09LHGT1NK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.89,
+  "featured_price": 19.89,
+  "sku": "CRSF100BM+PHCH1BMRBM+LSSS300GR_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B09LMKTVQN|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.79,
+  "featured_price": 19.79,
+  "sku": "CRSF100BM+LHNSE27BM+SCRN70YB+LSMS320BI_A",
+  "snapshot_date": "2026-10-07"
+ },
+ "B09LR68Z1N|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-27"
+ },
+ "B09LR6MDYF|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-04"
+ },
+ "B09LR6Y4B2|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.99,
+  "featured_price": 18.99,
+  "sku": "CRSF100GB+LHNSE27GB+SCRN70GB+LSTF40GB_AM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B09M43YSGW|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.99,
+  "featured_price": 23.99,
+  "sku": "amzn.gr.CRSF100YB_WSLS170YB_LS-RJ6Ggw-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09MSHG25R|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 34.49,
+  "featured_price": 34.49,
+  "sku": "CRFF500BM+PHCH1BMRBM3PK+LSCY210BG3PK_AMN",
+  "snapshot_date": "2026-10-12"
+ },
+ "B09WJ2LHRF|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.09,
+  "featured_price": 23.09,
+  "sku": "CRSF100CH+PHMU1PBRCH+LSDM220CH+ICST_AMN",
+  "snapshot_date": "2026-10-08"
+ },
+ "B09ZQH9GSB|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.19,
+  "featured_price": 18.19,
+  "sku": "LHCCE27WH4PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B2K7K7N7|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0B2K81GXH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.11,
+  "featured_price": 13.89,
+  "sku": "amzn.gr.LHC5E27WH5PK-1TPMMbz9pR03wFqN-LN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0B2K8F78C|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.69,
+  "featured_price": 13.69,
+  "sku": "LHC6E27WH5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B2K9BY4J|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.98,
+  "featured_price": 13.98,
+  "sku": "LHC1E27WH5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B2K9RXV1|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.19,
+  "featured_price": 21.19,
+  "sku": "LHC2E27WH5PK AM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0B3NDDFM7|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-07-19) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-19"
+ },
+ "B0B4BG19YY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (8.92, 11.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0B4BHWYR9|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.89,
+  "featured_price": 11.99,
+  "sku": "PSDS2BMRGD_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B4K4LN25|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-23) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-23"
+ },
+ "B0B4K4MVSK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.07,
+  "featured_price": 14.07,
+  "sku": "PSDS4BMRBU_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B4K5K2RR|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B4K5THS1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B0B4K6KG4F|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B4K796BK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.07,
+  "featured_price": 14.07,
+  "sku": "PSDS4BMRGR_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B77GF35H|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.49,
+  "featured_price": 11.49,
+  "sku": "CRFF108CH2PK+HK10CH2PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B77GPTQ7|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.65,
+  "featured_price": 13.65,
+  "sku": "CRFF108WH2PK+HK10WH2PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B77GWCPC|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-30) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-30"
+ },
+ "B0B77KX4P8|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.39,
+  "featured_price": 13.39,
+  "sku": "CRFF108BM2PK+HK10BM2PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B7SGF1HD|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.09,
+  "featured_price": 14.09,
+  "sku": "PHSF1BMTBY_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B7SLHYYK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-02"
+ },
+ "B0B82WZ7H3|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.51,
+  "featured_price": 16.89,
+  "sku": "amzn.gr.PHSF1BWRSN-azFl613ryUctV7B5rr-LN",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0B82Y8Q8N|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-09-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-09"
+ },
+ "B0B8VRRDVM|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-10) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-10"
+ },
+ "B0B8VVQDZR|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.29,
+  "featured_price": 15.29,
+  "sku": "LDSG125LOE2742PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B8VWLDFP|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.89,
+  "featured_price": 22.89,
+  "sku": "LDSG125MUE2742PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B9K32R7K|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.39,
+  "featured_price": 13.39,
+  "sku": "CL2THE5PK-AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0B9K6TTT9|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.49,
+  "featured_price": 12.49,
+  "sku": "CL2TBL5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B9SF386M|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.69,
+  "featured_price": 14.03,
+  "sku": "CL2TWH5PK AM",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0B9SHNT62|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-28) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-28"
+ },
+ "B0B9Y59487|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-06"
+ },
+ "B0B9Y614SR|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-07) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-07"
+ },
+ "B0B9Y67S6V|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-27"
+ },
+ "B0B9Y78BWX|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.99,
+  "featured_price": 12.99,
+  "sku": "CL3TAG5PK AM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0B9Y7S524|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.99,
+  "featured_price": 13.99,
+  "sku": "CL3TBW5PK AM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0B9Y9F73N|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.89,
+  "featured_price": 12.89,
+  "sku": "CL3TIV5PK AM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0BB32F8JN|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.27,
+  "featured_price": 13.69,
+  "sku": "amzn.gr.CL2RHE5PK-3YdtGG0VPzqzVi9AOGQ-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BB335TJ3|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-02"
+ },
+ "B0BB33PK6W|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 14.89,
+  "sku": "CL2RBU5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BB34B2QY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-02"
+ },
+ "B0BB34G298|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.09,
+  "featured_price": 12.19,
+  "sku": "CL2RBK5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BB35CF4F|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.19,
+  "featured_price": 12.89,
+  "sku": "amzn.gr.CL2RLB5PK-AMN-qSXTb-TXG8Wowpc-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BB36H4D4|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.06,
+  "featured_price": 11.06,
+  "sku": "CL2RAG5PK AM",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0BB36P56S|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-02"
+ },
+ "B0BB3NVM9D|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-03"
+ },
+ "B0BB3QW5TR|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.79,
+  "featured_price": 13.79,
+  "sku": "CL2RBW5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BBB1P1GW|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-09-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-27"
+ },
+ "B0BBB3CF25|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-10"
+ },
+ "B0BBB3V9M6|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.01,
+  "featured_price": 12.99,
+  "sku": "CL3RBW5PK_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0BBB4H59J|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.79,
+  "featured_price": 14.79,
+  "sku": "CL3RGY5PK_AMN",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0BBB4SC4Y|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BBB5YCJN|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.79,
+  "featured_price": 13.79,
+  "sku": "CL3RCR5PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BBBHFCPF|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.79,
+  "featured_price": 12.79,
+  "sku": "CL3RPU5PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BBRZPJ4N|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.69,
+  "featured_price": 21.89,
+  "sku": "CL3TBLAPK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BBS118NM|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.89,
+  "featured_price": 22.89,
+  "sku": "CL3TBKAPK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BBS1HPYD|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 20.89,
+  "sku": "CL3TREAPK-AM",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0BBS1R9DM|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.69,
+  "featured_price": 19.69,
+  "sku": "CL3TBDAPK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BBS2CKY5|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-05"
+ },
+ "B0BBS3RDGZ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.69,
+  "featured_price": 21.69,
+  "sku": "CL3TLBAPK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BBS41T71|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-10) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-10"
+ },
+ "B0BBS5YWRL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-27"
+ },
+ "B0BBS6BLHF|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BBS81CB8|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-28) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-28"
+ },
+ "B0BC1CMSVD|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.99,
+  "featured_price": 19.99,
+  "sku": "CL3RGDAPK_AMN",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0BC1D19JG|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-10) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-10"
+ },
+ "B0BLP1JSRK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.91,
+  "featured_price": 24.89,
+  "sku": "amzn.gr.LDMST64E2786PK-B1-60H9yWgQhY6-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BLZFGY38|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-09-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-09"
+ },
+ "B0BLZHCRGZ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BV3763V5|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BW9RPJ23|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.5,
+  "featured_price": 12.5,
+  "sku": "LSLT360BM+RPR44WH_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BW9SGHDN|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.23,
+  "featured_price": 12.23,
+  "sku": "LSLT360WH+RPR44WH-AM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0BWK6NJZL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BWK7RQ27|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-05"
+ },
+ "B0BWNHGMMR|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.79,
+  "featured_price": 20.79,
+  "sku": "PLTABM+ICST64E27_AMN",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0BWNK12KN|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B0BWNP176F|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.69,
+  "featured_price": 21.21,
+  "sku": "ENC774-AMN",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0BWNQVZTJ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.79,
+  "featured_price": 19.79,
+  "sku": "PLTABC_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BWYR88X1|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.92,
+  "featured_price": 19.89,
+  "sku": "amzn.gr.CRSF100GS_WSWH135BM_LS-EqV3gk-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BY3339N4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BZZ1FGFP|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BZZ4ZZ4N|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.91,
+  "featured_price": 24.89,
+  "sku": "amzn.gr.CRSF100BM_LHNSE27YB_SC-VTyfS--LN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0BZZ9XP44|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C1KHWNCJ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B0C1T7SW1P|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-06"
+ },
+ "B0C2CXYHRK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.71, 18.39) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C2CXYHRL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (15.22, 16.23) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C2CY2Y9D|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C2CZPSMG|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.89,
+  "featured_price": 19.89,
+  "sku": "ENC1915-AMN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0C2VKC5YR|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.89,
+  "featured_price": 24.89,
+  "sku": "CRSF100SN+LHNSE27SN+LSCY290SN-AMN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0C2VLCW5G|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.79,
+  "featured_price": 24.79,
+  "sku": "CRSF100RO+LHNSE27RO+LSCY290RO_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0C3ZTKF5K|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-09-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-03"
+ },
+ "B0C43RNPX1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C5CVN4RW|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.69,
+  "featured_price": 17.69,
+  "sku": "CRSF100BM+WSHR135BM+LSFT220BI+ICST64E27_",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0C661S975|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C7CXCV4K|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.89,
+  "featured_price": 10.89,
+  "sku": "CNP1000FG3PK AM",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0C7CXWH4S|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-07-22) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-22"
+ },
+ "B0C7CYPP79|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.89,
+  "featured_price": 11.89,
+  "sku": "CNP1000CH3PK AM",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0C7CYXB9Y|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-05"
+ },
+ "B0C7L17VP5|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 17.89,
+  "sku": "ENC5166-AMN",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0C9JFJGGH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-08-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-06"
+ },
+ "B0CBCN1B9S|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 37.89,
+  "featured_price": 37.89,
+  "sku": "CRFF500BM+PHCH1BMRBM3PK+LSCY210BG3PK+IC",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0CBMQZ8P6|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CBVBWZCG|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.89,
+  "featured_price": 28.89,
+  "sku": "ENC7567_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CC1RD8S9|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-19) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-19"
+ },
+ "B0CCDKF18M|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-21"
+ },
+ "B0CCF5KBJH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.79,
+  "featured_price": 15.79,
+  "sku": "LSCY290BM+RPR44WH_AMNB",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CCL729S8|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.71,
+  "featured_price": 26.89,
+  "sku": "amzn.gr.ENC1313-4aIti8zbenV8SzW7b2UDr-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CCW86LQF|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (12.63, 15.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CCYVJFJ7|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-09-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-06"
+ },
+ "B0CDWRKMYH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 8.84,
+  "featured_price": 11.89,
+  "sku": "amzn.gr.PSHYOS2BRBM_J-r-Wn3lal2Ot9kda-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CDWS523Q|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-12) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-12"
+ },
+ "B0CDWVF7VV|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-11) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CF8RVSCL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-25"
+ },
+ "B0CFHMCP1L|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.89,
+  "featured_price": 18.89,
+  "sku": "LDMST64E2783PK_AMN",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0CFV9JG2H|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B0CFVCGMDF|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 30.79,
+  "featured_price": 30.79,
+  "sku": "PSOS4BMTHE2PK_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CFVCM4Z5|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-30) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-30"
+ },
+ "B0CFVDH4FK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-06"
+ },
+ "B0CFXNZ9BK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-07-31) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-31"
+ },
+ "B0CG5QLXR8|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.39,
+  "featured_price": 12.39,
+  "sku": "CL2ROR5PK-AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CGRSQKF1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (9.22, 9.83) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CHDX9PTC|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.49,
+  "featured_price": 12.49,
+  "sku": "CL3TPU5PK-AMN",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0CHDZ8L2S|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.39,
+  "featured_price": 10.39,
+  "sku": "CL3TBL5PK-AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CHF49HKL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (31.91, 39.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CHW3Q9VG|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CJC62KSS|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (13.59, 15.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CK8BGCXQ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-27"
+ },
+ "B0CKBCZHLB|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.99,
+  "featured_price": 13.99,
+  "sku": "CL3TGL5PK-AMN",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0CKBSD2YW|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-07 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CKFD2MTJ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CL79HFHX|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (8.47, 10.59) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CM6J8FWV|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 17.41,
+  "sku": "CRSF100BM+PHOP1PBRBM+LSDO300RE_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CR19FYMX|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-09-23) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-23"
+ },
+ "B0CTX8MS85|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.28,
+  "featured_price": 15.28,
+  "sku": "LSFC160BT+RPR44WH_AMN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0CV5CW477|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-18"
+ },
+ "B0CVL3H63B|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-07-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-21"
+ },
+ "B0CVL8TQ73|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CVXG576R|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-07-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-27"
+ },
+ "B0CW5MDQG4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-07-19) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-19"
+ },
+ "B0CW9HNB4G|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.49,
+  "featured_price": 11.49,
+  "sku": "CRSF108YB2PK-AMN",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0CW9SBJBD|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.17,
+  "featured_price": 18.89,
+  "sku": "amzn.gr.LSDO210OR2PK_RPR44WH2P-0-SGQM-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CX5FNV4X|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.09,
+  "featured_price": 14.09,
+  "sku": "LP3DRC18_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CZXHLR1Q|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-01) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-01"
+ },
+ "B0D28R268K|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.99,
+  "featured_price": 24.99,
+  "sku": "LSCY290BB2PK+RPR44WH2PK- L",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D28WPS53|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 38.79,
+  "featured_price": 38.99,
+  "sku": "LSCY290BB3PK+RPR44WH3PK_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D28XC4DK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 32.17,
+  "featured_price": 42.89,
+  "sku": "amzn.gr.LSCY290BM3PK_RPR44WH3P-nC337L-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D28XF1RG|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 40.79,
+  "featured_price": 40.79,
+  "sku": "LSCY290AA3PK+RPR44WH3PK_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D291QGY1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0D296W2FG|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-01) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-01"
+ },
+ "B0D296Z5B4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D2977G11|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D297QW6M|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D298QXXM|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.29,
+  "featured_price": 27.29,
+  "sku": "LSCY290GY2PK+RPR44WH2PK -AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D298RPWW|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.79,
+  "featured_price": 15.79,
+  "sku": "LSCY290RE+RPR44WH_AMN01",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D298ZBH2|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D2997QLZ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 37.89,
+  "featured_price": 37.89,
+  "sku": "LSCY290RE3PK+RPR44WH3PK_AMNR",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D299LXGP|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.17, 18.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D6KQH4MB|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (16.39, 20.49) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D6KRHHYL|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.09,
+  "featured_price": 20.09,
+  "sku": "LSDM220CH2PK+RPR44WH2PK-AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D6KSHMXF|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.39,
+  "featured_price": 20.79,
+  "sku": "amzn.gr.LSDM220SN2PK_RPR44WH2P-4RPUiw-LN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D7S17C9W|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.29,
+  "featured_price": 14.65,
+  "sku": "LSMS320BU+RPR44WH_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7S1FK1Q|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.79,
+  "featured_price": 25.79,
+  "sku": "LSMS320GR2PK+RPR44WH2PK_AMN2",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7S1RC3N|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.49,
+  "featured_price": 26.49,
+  "sku": "LSMS320CB2PK+RPR44WH2PK_AMNX",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0D7S28YVZ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.89,
+  "featured_price": 24.89,
+  "sku": "LSMS320OR2PK+RPR44WH2PK_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7S3255K|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.49,
+  "featured_price": 27.49,
+  "sku": "LSMS320RE2PK+RPR44WH2PK_AMN2",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7S53LSQ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.69,
+  "featured_price": 25.69,
+  "sku": "LSMS320GY2PK+RPR44WH2PK_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7S58RX5|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320CB+RPR44WH_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7VWLG54|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "LSMS320GR2PK+RPR44WH2PK_AMNG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7W4827V|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "LSCP150BL2PK+RPR44WH2PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D8Y628SK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.51,
+  "featured_price": 18.51,
+  "sku": "LSRP260SN+RPR44WH_AML",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0D8YHSBLV|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D93LH1YN|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.99,
+  "featured_price": 32.29,
+  "sku": "amzn.gr.ENC7472-uO1ZXX5BrRYpPgfkOiWdA-AC",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D9692XN7|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 4 of our own offers at different prices (22.65, 24.26, 25.88, 32.35) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D97RKT3N|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D98G3HPS|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D9Q175RY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D9QFJXRX|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.79,
+  "featured_price": 13.79,
+  "sku": "CL2RGD5PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D9QHCGWF|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.29,
+  "featured_price": 12.29,
+  "sku": "CL2RCR5PK AM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D9QJNFWK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.29,
+  "featured_price": 12.29,
+  "sku": "CL2RAG5PK_AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DB1Z9LFT|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.79,
+  "featured_price": 22.79,
+  "sku": "PSDS2BMRBM2PK_AMN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0DBKTSQM4|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.19,
+  "featured_price": 21.19,
+  "sku": "CL2TBMAPK_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DBL9YWDM|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.79,
+  "featured_price": 13.79,
+  "sku": "LSDO210YE2PK+RPR44WH2PK FBA",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0DBLB6ZSH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (12.79, 15.99) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DBLRNVWK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DBTV74L3|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.5,
+  "featured_price": 21.5,
+  "sku": "LSLT360BI2PK+RPR44WH2PK FBA",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DBTX2GLJ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-07) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-07"
+ },
+ "B0DBVQ3L6Z|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.79,
+  "featured_price": 26.79,
+  "sku": "ENC7537_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DCDSZ719|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.99,
+  "featured_price": 21.99,
+  "sku": "LDSG95DIE2743PK_AML",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0DCFXBYJG|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-08"
+ },
+ "B0DCG91JX6|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 9.97,
+  "featured_price": 13.29,
+  "sku": "amzn.gr.LHTRE27BN2PK-Y6c-IXog63965PhL-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DCJJRDJB|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 35.99,
+  "featured_price": 35.99,
+  "sku": "PHCH1FBRBM2PK+LSCY290RE2PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DCNWF2D4|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 29.79,
+  "featured_price": 29.79,
+  "sku": "PHSF2BMRBM2PK+SPSDP2BM2PK FBA",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DCZLZ3J1|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.39,
+  "featured_price": 12.39,
+  "sku": "CL2TIV5PK-JK_AML",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DD3C2Z39|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.49,
+  "featured_price": 19.49,
+  "sku": "LSDO210BS2PK+RPR44WH2PK_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DDC11VMP|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.91,
+  "featured_price": 24.89,
+  "sku": "amzn.gr.LSMCSPDRFL_RPM40WH-6jSyfZphek-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DDSPQDSC|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 36.79,
+  "featured_price": 36.79,
+  "sku": "LSMS320CB3PK+RPR44WH3PK_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DDY8TKP1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DFBM4JS4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-09"
+ },
+ "B0DFWQ777V|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-05"
+ },
+ "B0DG29SP2H|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-10) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DGPZG2K8|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 41.54,
+  "featured_price": 41.54,
+  "sku": "ENC7659_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DH221ZSY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-07-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-21"
+ },
+ "B0DH4KYFPD|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DHGLCQW2|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DHGM5NP4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DJFD9Q82|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.79,
+  "featured_price": 22.79,
+  "sku": "LSFT220BM3PK+RPR44WH3PK-AMX",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DJQZF99H|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (26.31, 32.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DP2RQWTH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.79,
+  "featured_price": 23.79,
+  "sku": "CRSF100BM+PHSH1PBRBM+LSCY290BC-AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DQTF5T69|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B0DR934Q32|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 14.89,
+  "sku": "PSHYOS4WRWH+ICST64E27_AMN",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DR94W3SS|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-02"
+ },
+ "B0DR954YJT|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-04"
+ },
+ "B0DRYSCF1X|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-19) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-19"
+ },
+ "B0DSPK6Z8Q|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.79,
+  "featured_price": 11.79,
+  "sku": "PSDS4PBRYB_AMN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0DTPHMRW8|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 20.89,
+  "sku": "WCB2WH3PK+RPR44WH3PK_AML",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0DTPTDJZS|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DTZ1D4QX|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-16) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-16"
+ },
+ "B0DVLLVNJ5|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.69,
+  "featured_price": 20.69,
+  "sku": "PHSHF1PBRYB+LSMS320BG_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DVLPPMXL|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 21.99,
+  "sku": "PHSHF1PBRYB+LSCY290BG_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DVLYLXH8|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.99,
+  "featured_price": 19.99,
+  "sku": "PHSHF1PBRYB+LSCY290BG_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DX1C6274|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.59,
+  "featured_price": 17.59,
+  "sku": "LHSHE27CO3PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXP74GBH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.79,
+  "featured_price": 19.79,
+  "sku": "LSDO210BG2PK+RPR44WH2PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXPCJVCN|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B0DXPGH41F|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 17.89,
+  "sku": "LSDO210NB2PK+RPR44WH2PK_AMN0",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0DXQ53JQF|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.89,
+  "featured_price": 26.89,
+  "sku": "LSCY290CH2PK+RPR44WH2PK_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXQ727KG|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "LSCY290RE2PK+RPR44WH2PK_AMD2",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXQ7LC8N|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-02"
+ },
+ "B0DXQ7YWGJ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 36.89,
+  "featured_price": 30.89,
+  "sku": "LSCY290YB2PK+RPR44WH2PK_AMN2",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DXQ84YT7|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.49,
+  "featured_price": 25.49,
+  "sku": "LSCY290BL2PK+RPR44WH2PK_AMN2",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DXQ85YB6|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.99,
+  "featured_price": 27.99,
+  "sku": "LSCY290GB2PK+RPR44WH2PK-AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DXQ8VVR7|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.79,
+  "featured_price": 25.79,
+  "sku": "LSCY290WH2PK+RPR44WH2PK_AMN2",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0DXQ8WPCG|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-23) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-23"
+ },
+ "B0DXQ8YFC6|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 29.79,
+  "featured_price": 29.79,
+  "sku": "LSCY290RO2PK+RPR44WH2PK_AMN5",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXQ9BPVH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.89,
+  "featured_price": 27.89,
+  "sku": "LSCY290BB2PK+RPR44WH2PK_AMNBB",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXQ9SDTK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DXQ9WYPB|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.99,
+  "featured_price": 26.99,
+  "sku": "LSCY290NB2PK+RPR44WH2PK_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXQB65RY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-08"
+ },
+ "B0DXQB7T3C|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DYNFV1MQ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DZ1VPNYY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-06 (nearest available 2026-07-16) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-16"
+ },
+ "B0DZCC568W|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 49.89,
+  "featured_price": 49.29,
+  "sku": "ENC1583_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0F134WRT7|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.99,
+  "featured_price": 16.99,
+  "sku": "CL2RBPAPK IO",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F1N8D5PR|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.49,
+  "featured_price": 10.49,
+  "sku": "CL3RSI5PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F1NBC76Q|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F21TXF2F|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.49,
+  "featured_price": 11.49,
+  "sku": "WCWYBM2PK AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F2919THD|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-08-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-21"
+ },
+ "B0F2FQNWTJ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-07-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-25"
+ },
+ "B0F43VK2KY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-08"
+ },
+ "B0F6SLG78J|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.79,
+  "featured_price": 12.08,
+  "sku": "PHUH1HETBM_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F6V3GXXV|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-08-30) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-30"
+ },
+ "B0F7QNZ95S|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (29.35, 36.69) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F7QVS5XM|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 30.89,
+  "featured_price": 27.99,
+  "sku": "ENC7630_ABM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F7QZQS3Y|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.29,
+  "featured_price": 18.29,
+  "sku": "CL2TWHAPK_AMN",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0F7R4P38W|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.29,
+  "featured_price": 19.29,
+  "sku": "CL2TGDAPK_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F7X3BPQB|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.99,
+  "featured_price": 27.89,
+  "sku": "ENC8625_ABM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F8ML4W33|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.71,
+  "featured_price": 30.89,
+  "sku": "amzn.gr.ENC8743_AMN-h7jB5ngA3fM29-fZ1-LN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0F9WX4JTR|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F9WYJ23T|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 20.89,
+  "sku": "CL2TBRAPK_AMN1",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0F9WYMBRC|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (16.63, 20.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F9WZLZDH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.99,
+  "featured_price": 19.99,
+  "sku": "CL2TBMAPK_AMN1",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0F9WZMGFS|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.99,
+  "featured_price": 19.99,
+  "sku": "CL2RHEAPK_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0F9WZZ52L|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F9X1G8Y2|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F9X1GLK8|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F9X36HX4|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.99,
+  "featured_price": 19.99,
+  "sku": "CL3TIVAPK_AMN",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0F9YNBRZD|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.79,
+  "featured_price": 16.79,
+  "sku": "LSMS320BG+RPR44WH_AMN3",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0FH337XY7|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 40.07,
+  "featured_price": 50.09,
+  "sku": "amzn.gr.PLADBC_A-RyVpRqCKR39dH5BbYca_-LN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0FH35933Z|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 47.89,
+  "featured_price": 47.89,
+  "sku": "PLADBS_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FKMB9NWG|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.29,
+  "featured_price": 18.29,
+  "sku": "CRFF108BM2PK+LHTKE27BA2PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FNWFF268|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.69,
+  "featured_price": 19.69,
+  "sku": "LSWD360BG+RPR44WH_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FP4WWXBH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (19.03, 23.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0FPQYLY9M|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0FPQZSQ15|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.49,
+  "featured_price": 18.49,
+  "sku": "ENC6165_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FPR13FQZ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0FPR379H2|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0FPWTHD66|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (12.67, 16.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0FY2HP9LJ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-03"
+ },
+ "B0FY5PN96J|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.19,
+  "featured_price": 17.19,
+  "sku": "PHUH2HETBM_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FY5TWHGH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "LDSG1007E27_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FYCVNSKM|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0G1TKZTS4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-07-17) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-17"
+ },
+ "B0G2L2T8YG|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.79,
+  "featured_price": 26.79,
+  "sku": "ENC7763_AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0G2L3Q28C|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B0G39VRZ29|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-12) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-12"
+ },
+ "B0G63JB7J8|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-28) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-28"
+ },
+ "B0GDCN4LCW|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.99,
+  "featured_price": 16.99,
+  "sku": "LDMT185E2736PK_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0GDDXRR5K|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.39,
+  "featured_price": 16.39,
+  "sku": "LDMT185E2735PK_AML",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0GL6XJTVZ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "ENC9164_ABM",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0GLZ2SYN4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-28) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-28"
+ },
+ "B0GSQYM1RM|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-06"
+ },
+ "B0GW7VBY3J|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0GW8313KY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-07-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-21"
+ },
+ "B0GW84WQXL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-25"
+ },
+ "B0GZND9ZR6|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-03"
+ },
+ "B07CK4Y6R6|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 6.29,
+  "featured_price": 6.29,
+  "sku": "24IP2024_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07CQNNPKW|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.49,
+  "featured_price": 12.49,
+  "sku": "CL2TBU5PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07CRTS1LD|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.89,
+  "featured_price": 16.89,
+  "sku": "12IP67100_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B07CS22K8L|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.49,
+  "featured_price": 11.49,
+  "sku": "12IP6720_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07CST825S|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.29,
+  "featured_price": 20.29,
+  "sku": "CL2RBMAPK AMD-J",
+  "snapshot_date": "2026-10-08"
+ },
+ "B07CSVGZMV|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07CSZ7YKC|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 17.89,
+  "sku": "CL2TGDAPK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07CVXRPPZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.39,
+  "featured_price": 17.39,
+  "sku": "12IP67150 AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07CWGNBBJ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.29,
+  "featured_price": 12.29,
+  "sku": "12IP20120 AM",
+  "snapshot_date": "2026-10-08"
+ },
+ "B07DKBSBG4|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-11) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-11"
+ },
+ "B07F9SH71F|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07FNP5GYB|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.59,
+  "featured_price": 12.59,
+  "sku": "CL3TGD5PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07L6T9P7B|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-10) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-10"
+ },
+ "B07L8G7F2K|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.99,
+  "featured_price": 21.99,
+  "sku": "CL3TBUAPK_AMD1",
+  "snapshot_date": "2026-10-09"
+ },
+ "B07L8H4S54|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07L8JDCQL|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.99,
+  "featured_price": 25.61,
+  "sku": "CL3TBRAPK_AMD1",
+  "snapshot_date": "2026-10-08"
+ },
+ "B07L9TKS6V|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.79,
+  "featured_price": 23.79,
+  "sku": "CL3RBMAPK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07L9V6L4Y|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.99,
+  "featured_price": 22.99,
+  "sku": "CL3RGDAPK AMD",
+  "snapshot_date": "2026-10-08"
+ },
+ "B07LB4KZ9S|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.49,
+  "featured_price": 20.49,
+  "sku": "CL3RAGAPK_AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B07NGMCVVV|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07PM5144C|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-08-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-06"
+ },
+ "B07QRGY2H7|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "12IP67100 A",
+  "snapshot_date": "2026-10-08"
+ },
+ "B07RWJR1D2|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.79,
+  "featured_price": 17.79,
+  "sku": "PLPYBC_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07YV66L3P|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B07ZFWL5T1|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-18"
+ },
+ "B08B1MSFTT|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 16.89,
+  "sku": "CLTGBS+LSFT4HGBS+SFCRGBS_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08DKMMQS7|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.79,
+  "featured_price": 15.79,
+  "sku": "LSCY290BI+RPR44WH_AMD 2",
+  "snapshot_date": "2026-10-08"
+ },
+ "B08DKQP89H|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.79,
+  "featured_price": 15.79,
+  "sku": "LSCY290GR+RPR44WH_AMD3",
+  "snapshot_date": "2026-10-06"
+ },
+ "B08DQTHS6F|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 32.89,
+  "featured_price": 32.89,
+  "sku": "CRSF100BM2PK+PHSH1PBRYB2PK+LSCY290GR2PKA",
+  "snapshot_date": "2026-10-08"
+ },
+ "B08DQYB2H4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 34.59,
+  "featured_price": 35.45,
+  "sku": "CRSF100BM2PK+PHCH1BMRBM2PK+LSCY290BM2PKA",
+  "snapshot_date": "2026-10-10"
+ },
+ "B08DR54FYX|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-09-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-18"
+ },
+ "B08DR5D56T|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 32.09,
+  "featured_price": 32.09,
+  "sku": "CRSF100BM2PK+PHSH1PBRYB2PK+LSCY290GY2PKA",
+  "snapshot_date": "2026-10-10"
+ },
+ "B08P1NX6SB|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (29.60, 32.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08T1K4723|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.39,
+  "featured_price": 28.39,
+  "sku": "CRSF100SN+LHNSE27SN+LSCY290SN S_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08TLRK8PT|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (16.71, 20.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08TMBY3QM|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.2,
+  "featured_price": 21.59,
+  "sku": "amzn.gr.ENC771-ALbzpezPFCXNrPE70wqAC4-AC",
+  "snapshot_date": "2026-10-09"
+ },
+ "B08TMHKY6K|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (16.10, 17.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08TMKPGZL|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.89, 16.59) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08TX216Y4|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08TX2837H|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 16.55,
+  "sku": "LSMS320BI+RPR44WH_AMDBI",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08TX2PF6H|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320BT+RPR44WH_AMD3",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V5C7BXW|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "CRSF100WH+PHCH1PWRSWH+LSCY290WH_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V5RPGD1|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-12"
+ },
+ "B08V8D1874|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.49,
+  "featured_price": 18.59,
+  "sku": "CRSF100WH+LHNSE27WH+LSMS320OR_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V8D9RCF|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.79,
+  "featured_price": 18.79,
+  "sku": "CRSF100WH+LHNSE27WH+LSMS320GR_AMDJ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V8MYCZR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "CRSF100BM+PHSH1PBRBM+LSMS320GR-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V8N6TGD|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.49,
+  "featured_price": 18.49,
+  "sku": "CRSF100WH+LHNSE27WH+LSMS320YE_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V8T8R34|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.79,
+  "featured_price": 18.79,
+  "sku": "CRSF100WH+LHNSE27WH+LSMS320BI_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V8VZTMZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.89,
+  "featured_price": 26.89,
+  "sku": "CRSF100RO+PHSH1PBRRO+LSCY290RO_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V8X7LN8|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.49,
+  "featured_price": 18.49,
+  "sku": "CRSF100BM+PHSH1PBRBM+LSMS320BD_ADM",
+  "snapshot_date": "2026-10-10"
+ },
+ "B08V8XSXKB|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.99,
+  "featured_price": 18.99,
+  "sku": "CRSF100BM+PHSH1PBRBM+LSMS320BI AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V916YN4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.79,
+  "featured_price": 18.79,
+  "sku": "CRSF100WH+LHNSE27WH+LSMS320RE_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V91YGNM|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.79,
+  "featured_price": 18.79,
+  "sku": "CRSF100WH+LHNSE27WH+LSMS320GY_AMDJ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08V927KBM|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.99,
+  "featured_price": 22.99,
+  "sku": "CRSF100RO+PHSH1PBRRO+LSDM220RO_AMD",
+  "snapshot_date": "2026-10-06"
+ },
+ "B08VGHVH8R|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "LSCY290BC+RPR44WH_AMD1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08VGMKHT7|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 15.49,
+  "sku": "LSCY290BM+RPR44WH_AMD1",
+  "snapshot_date": "2026-10-12"
+ },
+ "B08VGMNGYN|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (10.39, 18.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08VGNL22C|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-08-26) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-26"
+ },
+ "B08VGP666V|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.21, 15.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08VGPPQ48|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "LSCY290GY+RPR44WH FBA",
+  "snapshot_date": "2026-10-12"
+ },
+ "B08VGPX5K5|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.49,
+  "featured_price": 16.89,
+  "sku": "LSCY290SN+RPR44WH AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08VGQMLYX|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.79,
+  "featured_price": 13.22,
+  "sku": "LSCY290BL+RPR44WH AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08VRY5HL8|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.49,
+  "featured_price": 18.49,
+  "sku": "CRSF100BC+LHNSE27YB+LSCY290BC AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08W5DH1TX|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.79,
+  "featured_price": 14.79,
+  "sku": "CRSF100BM+WSLS155YB+SCRN70BM+LSFT220YEZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08WJHR3FD|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.79,
+  "featured_price": 28.79,
+  "sku": "CRSF100YB+LHNSE27YB+LSRP260YB_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08WLZ2KCB|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (13.35, 16.69) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08WLZCF85|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "CRSF100YB+WSNW170YB+SCRN70YB+LSFT220YB",
+  "snapshot_date": "2026-10-08"
+ },
+ "B08WLZF1VK|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.69,
+  "featured_price": 15.69,
+  "sku": "CRSF100SN+WSNW170SN+SCRN70SN+LSFT220SNAM",
+  "snapshot_date": "2026-10-09"
+ },
+ "B08WWH8HWK|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-29) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-29"
+ },
+ "B08WWV5LLZ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-17) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-17"
+ },
+ "B08WX46R2X|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-05"
+ },
+ "B08WX7NWWL|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.6,
+  "featured_price": 22.89,
+  "sku": "amzn.gr.ENC899-YiHB6QX5hDt7-vyvySwPG7-LN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B08X4FY3V5|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 15.49,
+  "sku": "LSCY290BB+RPR44WH AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08X4J2CSH|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "CRSF100BM+LHNSE27CO+SCRN70CO+LSFT220RE A",
+  "snapshot_date": "2026-10-10"
+ },
+ "B08X4J9CQ1|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.07, 17.59) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08X4JZTGG|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08X4K83DM|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.29,
+  "featured_price": 19.29,
+  "sku": "CRSF100BM+LHNSE27CO+SCRN70CO+LSFT220WH",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08X4KB22H|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.59,
+  "featured_price": 18.59,
+  "sku": "CRSF100BM+LHNSE27CO+SCRN70CO+LSFT220BC A",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08X7FRVMY|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08X9WV762|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.29,
+  "featured_price": 14.29,
+  "sku": "PSDS4BMRBU_AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B08X9Z14CG|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.07,
+  "featured_price": 14.07,
+  "sku": "PSDS4BMRGY_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08XB1Q8YP|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-24) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-24"
+ },
+ "B08XB1QLTN|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-07-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-27"
+ },
+ "B08XBHQ8JJ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.89,
+  "featured_price": 11.89,
+  "sku": "PSDS2BMRGR_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08XBKHY6C|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.07,
+  "featured_price": 13.89,
+  "sku": "PSDS4BMRBL_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08XBL5RJK|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 3 of our own offers at different prices (11.26, 12.66, 14.07) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B08XNPKHZX|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.49,
+  "featured_price": 13.49,
+  "sku": "LSSS300YE+RPR44WH",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08XNPSWMN|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.89,
+  "featured_price": 29.89,
+  "sku": "CRSF100BC+LHNSE27CO+SCRN70BC+LSWD360BC_D",
+  "snapshot_date": "2026-10-11"
+ },
+ "B08XNSHS4P|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B08Z7RZC6W|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-14) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-14"
+ },
+ "B0915XVRMG|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.29,
+  "featured_price": 17.29,
+  "sku": "CRSF100BM+LHNSE27CO+SCRN70CO+LSFT220YB A",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0915YM5YZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "CRSF100BM+LHNSE27CO+SCRN70CO+LSFT220CHA",
+  "snapshot_date": "2026-10-11"
+ },
+ "B095PQ4R9M|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-06"
+ },
+ "B095PVFF8B|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "LSGG200AR+SCRN70FG_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09643CJ5N|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 35.48,
+  "featured_price": 41.89,
+  "sku": "CRFF500BM+PHCH1BMRBM3PK+LSDO210BG3PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0965HZJGN|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 52.49,
+  "featured_price": 52.49,
+  "sku": "ENC686 AMZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B096FPKPNQ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 54.89,
+  "featured_price": 54.89,
+  "sku": "ENC685 AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B096KQ3J8W|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.79,
+  "featured_price": 20.79,
+  "sku": "PLTABM+ICST64E2760_AMD",
+  "snapshot_date": "2026-10-06"
+ },
+ "B096L57VV1|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B09BV3X4MJ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 14.89,
+  "sku": "PSDS2BMRBM_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B09BV3Z3VZ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (9.51, 11.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09BV65JL2|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.89,
+  "featured_price": 11.89,
+  "sku": "PSDS2BMRBW.1_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09CYVFZWZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.79,
+  "featured_price": 18.79,
+  "sku": "CRSF100BM+LHNSE27BM+SCRN70YB+LSMS320GY_A",
+  "snapshot_date": "2026-10-10"
+ },
+ "B09CYWL67C|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09CYX95LQ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09CYXKRBR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.81,
+  "featured_price": 19.89,
+  "sku": "amzn.gr.CRSF100BM_LHNSE27BM_SC-ND4AJL-LN",
+  "snapshot_date": "2026-10-09"
+ },
+ "B09DL547B4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.79,
+  "featured_price": 23.79,
+  "sku": "PLWEBC+PHHT1PBRBC+WCBNBC_AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B09M42QJCS|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-07-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-18"
+ },
+ "B0BBGMC9HS|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.89,
+  "featured_price": 11.89,
+  "sku": "CL2RBW5PK AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0BNVNVP9D|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "LHC2E27WH5PK_AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BNVPDQS8|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BNVPMZ2X|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 5.3,
+  "featured_price": 6.49,
+  "sku": "amzn.gr.LHC6E27WH_AMD-9a92sgl-sWCMUQT-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BNVQC8PH|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BNW14HRC|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-08"
+ },
+ "B0BNW2CSWJ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "ENC783 AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BNXHF2BR|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-23) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-23"
+ },
+ "B0BNXK9R1L|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.79,
+  "featured_price": 22.89,
+  "sku": "CRSF100CO+PHSH1PBRCO+LSDM220CO+LDWWE_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BWJWGXD4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.25,
+  "featured_price": 13.89,
+  "sku": "amzn.gr.LSCY210BG_RPR44WH_X-mf4Nn6JgG-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BX4B6F3W|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320GR+RPR44WH_AMDG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BY34N1KJ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (26.79, 26.90) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BZ4Y4X94|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BZ4YPVXF|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.89,
+  "featured_price": 20.89,
+  "sku": "ENC1292 AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BZ4ZGKSS|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.31,
+  "featured_price": 22.89,
+  "sku": "amzn.gr.ENC1293_AMD-P56VYxX02PiHqmIDj-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0BZ4ZRNCC|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0BZ514CFP|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.79,
+  "featured_price": 20.89,
+  "sku": "ENC1290 AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C171RYVR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.79,
+  "featured_price": 11.79,
+  "sku": "PSDS2RBM_AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0C171T3ZR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 9.89,
+  "featured_price": 9.89,
+  "sku": "PSDS2RGY_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C6LV14PT|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-08"
+ },
+ "B0C7BZ5756|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 18.89,
+  "sku": "LSCY290GC+RPR44WH AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C7C59JYH|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.79,
+  "featured_price": 16.79,
+  "sku": "LSCY290CH+RPR44WH-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C7C6LPRH|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.99,
+  "featured_price": 15.89,
+  "sku": "LSCY290BU+RPR44WH-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C7C8LWY9|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.21,
+  "featured_price": 15.79,
+  "sku": "amzn.gr.LSCY290NB_RPR44WH_W-FVg6Tdvm--LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C7CLVDHR|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C7CMT1PQ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.69,
+  "featured_price": 13.69,
+  "sku": "LSSS300BM+RPR44WH_AMD1",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0C7CPG7LG|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.4,
+  "featured_price": 15.89,
+  "sku": "amzn.gr.LSSS300GB_RPR44WH_Z-4hEhqk5Df-AC",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C7GK1BRT|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.79,
+  "featured_price": 23.79,
+  "sku": "ENC5170_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C86888D2|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-21"
+ },
+ "B0C9TSHB33|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.79,
+  "featured_price": 13.79,
+  "sku": "LSCY210BM+RPR44WH-AMX",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C9TTZBV7|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C9TWTCZ8|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.89,
+  "featured_price": 12.89,
+  "sku": "LSCY210BG+RPR44WH_AMD3",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CB4R32R6|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (15.20, 18.08) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CB8D5MMC|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320GY+RPR44WH AMZ",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CBLWLZ4W|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-07) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-07"
+ },
+ "B0CBLXL9R1|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 15.49,
+  "sku": "WCVCBC2PK+RPR44WH2PK AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CBPBQK1X|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.99,
+  "featured_price": 15.99,
+  "sku": "WCB2BC2PK+RPR44WH2PK AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CBPQVC6K|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.93, 16.59) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CC5R1V45|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CC8Q45BL|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.79,
+  "featured_price": 25.79,
+  "sku": "CRSF100BM+WSSS70BM+LSSS300BM+ICST64E27-A",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CC9LSNXF|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.6,
+  "featured_price": 13.78,
+  "sku": "amzn.gr.LSLT360BI_RPR44WH_VV-YNRHDw-G-VG",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CG5YFN9X|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.49,
+  "featured_price": 27.89,
+  "sku": "LSCY290BI2PK+RPR44WH2PK-BI",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CG5YZXMP|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.89,
+  "featured_price": 27.89,
+  "sku": "LSCY290NB2PK+RPR44WH2PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CG5ZHJYF|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.79,
+  "featured_price": 27.79,
+  "sku": "LSCY290BC2PK+RPR44WH2PK_AMD1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CG9G8PBV|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.89,
+  "featured_price": 10.89,
+  "sku": "WCWODSBM+RPR44WH_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CG9GNX5L|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-09 (nearest available 2026-09-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-08"
+ },
+ "B0CGRJ1V8L|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.19,
+  "featured_price": 24.6,
+  "sku": "TPOSBDBM-AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0CGRJBVL2|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 43.99,
+  "featured_price": 43.99,
+  "sku": "TPOSBDBM2PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CH39MWRF|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.59,
+  "featured_price": 19.59,
+  "sku": "WSOSBDBM-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CH3BD4MP|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 37.79,
+  "featured_price": 37.79,
+  "sku": "WSOSBDBM2PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CJ4Q2DF3|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.49,
+  "featured_price": 24.49,
+  "sku": "LSMCSPFLMC_AMN2",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0CJ4QZ15C|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (20.60, 22.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CJ4R5796|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CJCDXV8R|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (19.03, 23.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CJCDZWRB|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.49,
+  "featured_price": 23.49,
+  "sku": "LSSS300SN2PK+RPR44WH2PK-SN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CJCF5PCD|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.99,
+  "featured_price": 25.99,
+  "sku": "LSSS300BG2PK+RPR44WH2PK_AMD1",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0CJCFF5SY|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-29) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-29"
+ },
+ "B0CKBZ4V22|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "CRSF100BM+LHNSE27CO+SCRN70CO+LSFT220BI_T",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CKWMV3JZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.49,
+  "featured_price": 12.49,
+  "sku": "CL3RBT5PK-AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CL16BWS3|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 41.89,
+  "featured_price": 41.89,
+  "sku": "ENC5523_AMD",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0CL1BB5GB|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 41.89,
+  "featured_price": 41.89,
+  "sku": "ENC5535_AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CL1K1T2T|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (36.98, 41.09) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CN4M3S59|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CN4MHXGH|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.69,
+  "featured_price": 14.69,
+  "sku": "PLPYBC_AMD1",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CNG5GG2X|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (15.11, 18.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CNGGP2YF|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.99,
+  "featured_price": 17.99,
+  "sku": "TPHTTN2PBRBM_AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0CNZ5N8L3|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.89,
+  "featured_price": 19.89,
+  "sku": "CL3RWHAPK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CNZ5QRHW|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-08"
+ },
+ "B0CP3CZ4TM|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (15.20, 16.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CPBW4PFF|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CPBWRQKP|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-24) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-24"
+ },
+ "B0CPBX49HJ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (11.60, 15.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CPBX86K6|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 15.49,
+  "sku": "LSCY290NB+RPR44WH_AMDN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CPBXJMSS|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "LSCY290OR+RPR44WH_AMDO",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CPBXMLYW|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.89,
+  "featured_price": 16.89,
+  "sku": "LSCY290CH+RPR44WH RAMZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CPBY28LB|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.99,
+  "featured_price": 15.99,
+  "sku": "LSCY290GY+RPR44WH_AMDG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CRZ25PXP|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CRZ4GSZ2|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-13"
+ },
+ "B0CRZ4L8DQ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.79,
+  "featured_price": 15.79,
+  "sku": "LSCY290RE+RPR44WH_AMD01",
+  "snapshot_date": "2026-10-06"
+ },
+ "B0CRZ5GV66|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (16.10, 17.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CS9PNL8L|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 31.98,
+  "featured_price": 31.98,
+  "sku": "LSFT220BG3PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CS9PS8J3|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 31.89,
+  "featured_price": 31.89,
+  "sku": "LSCY210BG3PK+RPR44WH3PK-WW",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CS9PSKG3|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 17.89,
+  "sku": "LSTF40BG2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CS9Q1QH3|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CS9Q78XH|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.49,
+  "featured_price": 23.49,
+  "sku": "LSCY210BG2PK+RPR44WH2PK-AMBG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CS9QXNXQ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 29.89,
+  "featured_price": 29.89,
+  "sku": "LSDO210BG3PK+RPR44WH3PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CSNHB4KG|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 29.89,
+  "featured_price": 29.49,
+  "sku": "ENC8625_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CSNHHK98|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (26.36, 29.29) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CSPDC2PX|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (21.51, 26.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CTC7XPNX|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.99,
+  "featured_price": 18.59,
+  "sku": "CRSF100BM+LHNSE27YB+SCRN70BM+LSFT220BG_A",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CTSTBDXV|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.79,
+  "featured_price": 14.79,
+  "sku": "LSMS320BD+RPR44WH AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CTSVJKJ6|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320RE+RPR44WH_AMD2",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0CTT2G3B5|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320BU+RPR44WH_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CTT4CH4C|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320GR+RPR44WH -AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CTT9GB4R|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "LSMS320WH+RPR44WH-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CTTD21V2|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 14.99,
+  "sku": "LSMS320NB+RPR44WH-AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CTTFPLLV|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 14.89,
+  "sku": "LSMS320BI+RPR44WH-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CVL7XLK4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 29.49,
+  "featured_price": 29.49,
+  "sku": "LSTF400YE2PK+RPR44WH2PK_ AMD1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CVLDC4BD|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-06 (nearest available 2026-08-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-06"
+ },
+ "B0CXPRNXLT|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.89,
+  "featured_price": 24.89,
+  "sku": "LSCY290OR2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CXPT6W9C|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.89,
+  "featured_price": 26.89,
+  "sku": "LSCY290RO2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CXPV77DK|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "LSCY290BL2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CXSQZ68C|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "LSCY290BD2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CXSS7XYX|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CXSXN4KX|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.59,
+  "featured_price": 27.99,
+  "sku": "LSMS320BI2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CXT2NJD9|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CXTF741V|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CXTHNM6F|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CYZVX28V|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-25"
+ },
+ "B0CYZWJ7WJ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.89,
+  "featured_price": 29.89,
+  "sku": "LSCY290CH2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CZ9D1VCL|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-08-29) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-29"
+ },
+ "B0CZ9FPLB7|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.09,
+  "featured_price": 25.09,
+  "sku": "LSMS320GR2PK+RPR44WH2PK-AMG",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CZLDKF3Z|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.99,
+  "featured_price": 23.99,
+  "sku": "LSSS300GB2PK+RPR44WH2PK-GB",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CZLDL8DQ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 32.89,
+  "featured_price": 23.99,
+  "sku": "LSSS300RO2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0CZNJCBB6|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.79,
+  "featured_price": 22.79,
+  "sku": "LSSS300BI2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CZNJPQMW|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (23.11, 28.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CZNLY8CR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 26.99,
+  "featured_price": 26.99,
+  "sku": "LSSS300BC2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CZNNJS4D|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.49,
+  "featured_price": 20.49,
+  "sku": "LSSS300PI2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CZNNRGMB|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.49,
+  "featured_price": 23.49,
+  "sku": "LSSS300GR2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CZNPJGMM|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.79,
+  "featured_price": 19.79,
+  "sku": "LSSS300RE2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0CZNRG7H7|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.89,
+  "featured_price": 24.89,
+  "sku": "LSSS300CO2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0CZNTPXYD|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.79,
+  "featured_price": 24.79,
+  "sku": "LSSS300YB2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CZNVZHT6|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.79,
+  "featured_price": 24.79,
+  "sku": "LSSS300YE2PK+RPR44WH2PK -AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D2TCJKT7|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D2TF3H6H|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-07-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-18"
+ },
+ "B0D32YBFXP|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (20.63, 25.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D44XWSWS|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (15.20, 16.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D45236MW|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 18.69,
+  "sku": "PHSF2GDTYB+ICST64E27_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D453YVGN|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.5,
+  "featured_price": 15.89,
+  "sku": "amzn.gr.PHSF2BMTBM_ICST64E27-14QXt4rO-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D4544Q36|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-08-29) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-29"
+ },
+ "B0D4XZMBW6|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.99,
+  "featured_price": 16.99,
+  "sku": "LDMG80B2246PK-AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0D4Y3Q9CR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.19,
+  "featured_price": 10.39,
+  "sku": "LDMG95B2243PK_AMD",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0D4Y98Z49|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-08"
+ },
+ "B0D4YDHJNZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.39,
+  "featured_price": 12.39,
+  "sku": "LDMG80E2743PK-AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D4YJWDZD|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.89,
+  "featured_price": 16.89,
+  "sku": "LDMG95B2246PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D4YPCPPS|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (16.10, 17.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D53DFPS4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "WCB1BM2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D53FZ8GS|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 15.49,
+  "sku": "WCB2WH2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D53QKVBY|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.62,
+  "sku": "WCB3BM2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D53YC5HZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.49,
+  "sku": "WCB2BM2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D56YL7CS|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 15.26,
+  "sku": "WCB6BC2PK+RPR44WH2PK AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D56ZN8NP|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.69,
+  "featured_price": 15.69,
+  "sku": "WCB7WH2PK+RPR44WH2PK AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D5711PRY|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 15.49,
+  "sku": "WCB6BM2PK+RPR44WH2PK AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D59MHSXN|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 14.89,
+  "sku": "WCB3WH2PK+RPR44WH2PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D5BDGF22|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.89,
+  "featured_price": 25.89,
+  "sku": "LSMS320OR2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0D5BFGM4G|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-13"
+ },
+ "B0D5BFHKBN|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 25.39,
+  "featured_price": 25.39,
+  "sku": "LSMS320GY2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0D5BFMF7Z|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (23.21, 25.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D5LRVWYD|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.89,
+  "featured_price": 21.49,
+  "sku": "LSFT220BG2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D5LSD942|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (15.89, 17.99) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D5LT7ZPW|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.89,
+  "featured_price": 19.89,
+  "sku": "LSFT220CO2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D5LV2NC3|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.89,
+  "featured_price": 16.89,
+  "sku": "LSFT220BL2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D5LVCYF1|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "LSFT220BU2PK+RPR44WH2PK-AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0D5QZQGD1|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.89,
+  "featured_price": 23.89,
+  "sku": "LSMCSQWYRE+RPM40WH_AMDR",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D6761D6B|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D6NBRV3X|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.29,
+  "featured_price": 16.29,
+  "sku": "COY9ABM3PK_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D6VHK5B1|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (36.89, 38.69) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D6VK2QFK|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 41.69,
+  "featured_price": 41.69,
+  "sku": "ENC7391 AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D6VKJJB3|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (32.63, 40.79) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D6VLZXY4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 36.62,
+  "featured_price": 40.69,
+  "sku": "amzn.gr.ENC7392-Z0ml5WiLCR3G4QOdDORQy-AC",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D6VM1XGC|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D6YF7VPY|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 9.99,
+  "featured_price": 10.89,
+  "sku": "CCGNNWE48_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D73JHB8R|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.99,
+  "featured_price": 11.99,
+  "sku": "LDST185B2242PK_AMD",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0D9RWB87Q|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-08"
+ },
+ "B0DB1J6TVW|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.79,
+  "featured_price": 14.79,
+  "sku": "PLPYBS_AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DBLLNYRP|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.39,
+  "featured_price": 13.12,
+  "sku": "CL3RHE5PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DBLN5KN6|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.29,
+  "featured_price": 12.29,
+  "sku": "CL3RGD5PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DBWH9VTG|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.49,
+  "featured_price": 11.49,
+  "sku": "CL2RAG5PK AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DBWM19D3|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.99,
+  "featured_price": 16.99,
+  "sku": "CL2RBWAPK AMD",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0DBWRBK6J|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.79,
+  "featured_price": 17.79,
+  "sku": "CL2RBKAPK AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DFHMC949|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (13.76, 15.29) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DFHMDZYQ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 3 of our own offers at different prices (8.30, 12.07, 15.09) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DFHN3XPG|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (14.30, 15.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DFHP411K|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.89,
+  "featured_price": 15.89,
+  "sku": "LSCY290YE+RPR44WH-DC",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DGPZBHVT|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-26) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-26"
+ },
+ "B0DH66Y9T8|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.29,
+  "featured_price": 18.29,
+  "sku": "CL2TBKAPK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DH67XKP9|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.19,
+  "featured_price": 18.19,
+  "sku": "CL2TBRAPK_AMD",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0DH6FPVYK|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.29,
+  "featured_price": 18.29,
+  "sku": "CL2TCRAPK_AMD",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0DH8Z6FLZ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DH96KQ88|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.89,
+  "featured_price": 11.89,
+  "sku": "CL3TOR5PK_AMD",
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DJH1K2T5|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 27.89,
+  "featured_price": 27.89,
+  "sku": "PLPYBC2PK_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DKF35RMQ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-23) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-23"
+ },
+ "B0DM61D265|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.89,
+  "featured_price": 19.89,
+  "sku": "LSFT220BM3PK+RPR44WH3PK AMZ",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DM63L7J1|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 17.89,
+  "sku": "LSFT220BM2PK+RPR44WH2PK AA",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0DMDV1BF9|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-17) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-17"
+ },
+ "B0DMDWM25D|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-18"
+ },
+ "B0DMNS6SJ3|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0DP264BLC|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DSBP4962|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 24.89,
+  "featured_price": 25.79,
+  "sku": "PLTTBC+LSFT220BC_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DTHJYV3K|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-03"
+ },
+ "B0DTHKSHFY|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-30) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-30"
+ },
+ "B0DTQ47GBY|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-27"
+ },
+ "B0F2HHRGLQ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.38,
+  "featured_price": 14.38,
+  "sku": "amzn.gr.PLWLBC_S-f9m-csA--3HJCl2PrAAK-VG",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0F48LNB6J|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 8.89,
+  "featured_price": 8.89,
+  "sku": "RWWPSY1080YE_AMZ",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0F48PQWQB|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-08-10) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-10"
+ },
+ "B0F7LSQCGZ|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F7LSYSJB|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F7LT6FFV|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.09,
+  "featured_price": 20.09,
+  "sku": "LSFT220BM2PK+RPR44WH2PK_AMD6",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0F7LTLLG3|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F7LTSVCK|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.69,
+  "featured_price": 19.69,
+  "sku": "LSFT220SN2PK+RPR44WH2PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F7LTVVKM|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F7LWJRWZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.89,
+  "featured_price": 19.89,
+  "sku": "LSFT220BL2PK+RPR44WH2PK_AMD1",
+  "snapshot_date": "2026-10-08"
+ },
+ "B0F7QQMJN9|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 9.8,
+  "featured_price": 12.29,
+  "sku": "amzn.gr.TSTLRULRB2PK_SS-aAfaYQs3wlvAu-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FHPM5GYP|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 19.11,
+  "featured_price": 23.89,
+  "sku": "amzn.gr.CRFF100CH2PK_LHNSE27CH-rQk_De-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FHPMM3WZ|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 22.89,
+  "featured_price": 22.89,
+  "sku": "CRFF100CO2PK+LHNSE27CO2PK_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0FHPNSB7S|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-06"
+ },
+ "B0FL767CVP|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (26.00, 28.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0FL785BNH|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 28.89,
+  "featured_price": 28.89,
+  "sku": "PHSF2ROTRO2PK+ICST64E272PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FMRL3D3P|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "CRSF100BM2PK+LHTTE27BM2PK_AMD",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0FQVFP61X|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-07-31) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-31"
+ },
+ "B0FR62XRNR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 41.89,
+  "featured_price": 41.89,
+  "sku": "PHSF2ROTRO3PK+ICST64E273PK_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0FR738SKW|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (36.80, 40.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0FX2Q2VVY|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-11) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-11"
+ },
+ "B0FX2SZFZM|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-03"
+ },
+ "B0FX2TFPZM|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-18"
+ },
+ "B0G2YBCMRK|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-06 (nearest available 2026-10-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-05"
+ },
+ "B0G2YBJVW4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 20.39,
+  "featured_price": 20.39,
+  "sku": "ENC7844_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0G4QXV4B3|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0G4QXYX5W|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-21"
+ },
+ "B0G5P88BGR|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.69,
+  "featured_price": 18.69,
+  "sku": "ENC6168_AMD",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0GCZJ9XRB|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (22.40, 24.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0GCZQVHRF|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (13.59, 16.99) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0GD51HL84|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 30.19,
+  "featured_price": 30.19,
+  "sku": "ENC7770_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0GGDTRTN7|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (25.55, 28.39) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0GJT6PGJ2|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-09-17) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-17"
+ },
+ "B0GTYMPTZG|DCVoltage|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-20) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-20"
+ },
+ "B0GW83X9F4|DCVoltage|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 9.89,
+  "featured_price": 10.89,
+  "sku": "LHSWPBB22GD_AMD",
+  "snapshot_date": "2026-10-11"
+ },
+ "B07F9W6BQW|DCVoltage|DE": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-08-26) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-26"
+ },
+ "B07MF6MSMS|DCVoltage|DE": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0823ZXJ2K|DCVoltage|DE": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-08"
+ },
+ "B08TX2PF6H|DCVoltage|DE": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CCYL77YR|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 3 of our own offers at different prices (17.17, 18.31, 22.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B093T3WNMZ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-06"
+ },
+ "B093T47DB9|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.99,
+  "featured_price": 13.27,
+  "sku": "LSCY290BL+RPR44WH_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B093T4L68X|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.17,
+  "featured_price": 15.89,
+  "sku": "amzn.gr.LSCY290WH_RPR44WH_C-JwXeDulCQ-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B094R3M2DC|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0957XC6K9|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-02"
+ },
+ "B098138JF2|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-07-15) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-15"
+ },
+ "B09C2G2Z9L|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (20.02, 25.02) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B09HS8D6R4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B09JM3PHR3|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.89,
+  "featured_price": 9.0,
+  "sku": "LDSG95DIE274",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B7SH5CPX|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.19,
+  "featured_price": 14.19,
+  "sku": "PHSF1BWTSN-AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B7SLHW8H|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-03) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-03"
+ },
+ "B0B82W84F2|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.0,
+  "featured_price": 13.0,
+  "sku": "PHSF1AGRGB_AMN",
+  "snapshot_date": "2026-10-12"
+ },
+ "B0B82XR5Y1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-14) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-14"
+ },
+ "B0CV5D2N3N|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-07-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-25"
+ },
+ "B0B9YBYDLP|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.79,
+  "featured_price": 13.79,
+  "sku": "CL3TBD5PK AM",
+  "snapshot_date": "2026-10-09"
+ },
+ "B091N5YNF6|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.6,
+  "featured_price": 15.46,
+  "sku": "amzn.gr.CRSF100BM_PHDH1HETHE-Kd9LBoW2-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B09JM3PLLH|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 10.19,
+  "featured_price": 10.19,
+  "sku": "LDSG125LOE274 AMZ",
+  "snapshot_date": "2026-10-12"
+ },
+ "B09M78BQYX|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 17.89,
+  "sku": "CRSF100BC+PHCH1PBRBC+LSCY290BC_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B2K8J9W5|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-07-25) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-25"
+ },
+ "B0B2K913QC|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 16.49,
+  "featured_price": 13.49,
+  "sku": "LHC4E27WH5PK AM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0B4K6NM87|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-08"
+ },
+ "B0C1T64M5F|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-27"
+ },
+ "B0C1T71JK1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-05"
+ },
+ "B0C2CYBB2B|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-09"
+ },
+ "B0C2CZJJ6H|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.69,
+  "featured_price": 16.89,
+  "sku": "amzn.gr.ENC1905-gFCnw7ggqPkMZAfr0NYrx-VG",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C2D1HNCJ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-23) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-23"
+ },
+ "B0C2VVSJYP|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 11.91,
+  "featured_price": 14.89,
+  "sku": "amzn.gr.CRSF100BM_WSLS155YB_SC-BF-Qif-LN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C2VWXNZ2|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.19,
+  "featured_price": 17.49,
+  "sku": "CRSF100BM+WSLS155YB+SCRN70BM+LSFT220GYAM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C3ZT3VR1|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Source price is 0.00 (your_price=0.00) - unusable, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0C3ZT6D5G|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.89,
+  "featured_price": 13.25,
+  "sku": "LSCY290YB+RPR44WH FBA",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C3ZTBRHZ|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 14.89,
+  "featured_price": 14.89,
+  "sku": "LSCY290BM+RPR44WH FBM",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0C3ZTR2VC|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CBMS78L8|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-09"
+ },
+ "B0CCD4KL94|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-09-27) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-27"
+ },
+ "B0CCJQMZZ8|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0CFTV6BY6|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 23.79,
+  "featured_price": 21.89,
+  "sku": "LSMCSQWYBL+RPM40WH_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0CG8MKK56|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-04"
+ },
+ "B0CGRJ5PM4|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-28) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-28"
+ },
+ "B0CGRQCV7Y|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-21"
+ },
+ "B0CGRQZDWK|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-31) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-31"
+ },
+ "B0CGZQV9Y7|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0CVQFSV4Z|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-07-21) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-21"
+ },
+ "B0CW5X3HHV|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 18.89,
+  "featured_price": 18.89,
+  "sku": "LSDO210GY2PK+RPR44WH2PK-AMN",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0D29516SS|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.69,
+  "featured_price": 15.71,
+  "sku": "LSCY290GB+RPR44WH_AMN1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D296FXJP|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.89,
+  "featured_price": 16.89,
+  "sku": "LSCY290SN+RPR44WH_AMN",
+  "snapshot_date": "2026-10-07"
+ },
+ "B0D7944QDY|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.99,
+  "featured_price": 15.49,
+  "sku": "WCB6BM2PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0D7S3YDZY|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D7S64HXG|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-08"
+ },
+ "B0D7ZTRLBH|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (19.42, 25.89) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0D93QM7CS|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-12 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0DBYNGRFW|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-06) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-06"
+ },
+ "B0DCNNVB21|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 12.09,
+  "featured_price": 12.09,
+  "sku": "LHC6E27WH4PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DF2C5Y3T|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 13.19,
+  "featured_price": 13.19,
+  "sku": "LHC5E27WH3PK_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DF2WV971|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-10 (nearest available 2026-09-20) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-20"
+ },
+ "B0DNQR3B1P|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-08 (nearest available 2026-08-05) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-05"
+ },
+ "B0DPQFRMCD|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 41.79,
+  "featured_price": 41.79,
+  "sku": "ENC7893 AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0DXPFBTCK|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 17.79,
+  "featured_price": 17.89,
+  "sku": "LSDO210BI2PK+RPR44WH2PK_AMN2",
+  "snapshot_date": "2026-10-10"
+ },
+ "B0F28YFTQ9|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0F28YNDZN|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F28YR5JN|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-10) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-10"
+ },
+ "B0F28Z2V3F|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.99,
+  "featured_price": 15.99,
+  "sku": "LSCY290GY+RPR44WH_AML",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F28ZSNQ7|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 21.89,
+  "featured_price": 16.71,
+  "sku": "LSCY290YB+RPR44WH_AMD1",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F2915RW5|LEDSone|UK": {
+  "px_status": "available",
+  "px_reason": null,
+  "compared_price": 15.49,
+  "featured_price": 15.49,
+  "sku": "LSCY290CY+RPR44WH_AMN",
+  "snapshot_date": "2026-10-11"
+ },
+ "B0F291K6SL|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-02) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-02"
+ },
+ "B0F291VKCF|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-08) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-08"
+ },
+ "B0F292MNGB|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-13) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ },
+ "B0F2F8SKBV|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-08-12) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-08-12"
+ },
+ "B0F9WL4L72|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-10-09) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-09"
+ },
+ "B0F9YTQV7N|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date 2026-10-11 (nearest available 2026-09-04) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-09-04"
+ },
+ "B0GMHQTBSQ|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-07-31) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-31"
+ },
+ "B0GNZLCX15|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "No price snapshot on the Buy Box reading date  (nearest available 2026-07-18) - stale, not compared",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-07-18"
+ },
+ "B0GNZRHMXW|LEDSone|UK": {
+  "px_status": "unavailable",
+  "px_reason": "Ambiguous: 2 of our own offers at different prices (8.77, 11.69) - 'our price' is not defined for this ASIN",
+  "compared_price": null,
+  "featured_price": null,
+  "sku": null,
+  "snapshot_date": "2026-10-13"
+ }
+}

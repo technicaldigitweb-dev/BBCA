@@ -1,0 +1,6 @@
+{
+  "gates": { "publish_approved": true },
+  "publish_audience": [
+    { "assigned_user": "Tharsika(jaffna)", "assigned_user_team": "ph_priors", "team": "Development" }
+  ]
+}

@@ -1,0 +1,33 @@
+[
+ {
+  "asin": "B086385W3W",
+  "sku": "CS-SHHRCRT+SFCRCR pck2",
+  "mapped_sku": "PHSF1BRTCO2PK",
+  "account": "LEDSone",
+  "marketplace": "UK",
+  "category": "Pendant Lights",
+  "ph_name": "Abinayaa",
+  "status": "NO",
+  "bb_pct": 0.0,
+  "basis": "Buy Box held for 0% of page views on 2026-10-11",
+  "reason": "Unknown",
+  "signals": [
+   "Our price is above the featured offer"
+  ],
+  "listing_status": "Active",
+  "stock": 39,
+  "uk_stock": 221,
+  "fbm_stock": 39,
+  "price": 18.89,
+  "currency": "GBP",
+  "last_checked": "2026-10-11",
+  "prev_pct": 0.0,
+  "prev_date": "2026-10-10",
+  "change": "No change",
+  "url": "https://www.amazon.co.uk/gp/product/B086385W3W",
+  "featured_price": 18.89,
+  "px_your_price": 20.89,
+  "px_date": "2026-10-13",
+  "stratum": "price_below_eq_featured"
+ }
+]
